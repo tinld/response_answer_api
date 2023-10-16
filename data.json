@@ -1,0 +1,944 @@
+{
+  "Data": [
+    {
+      "Question": ["Tỉnh lỵ của An Giang là gì ?", "An Giang có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của An Giang."],
+      "Answer": "Tỉnh lỵ của An Giang là Thành Phố Long Xuyên",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bà Rịa - Vũng Tàu là gì ?", "Bà Rịa - Vũng Tàu có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bà Rịa - Vũng Tàu."],
+      "Answer": "Tỉnh lỵ của Bà Rịa - Vũng Tàu là Thành Phố Bà Rịa",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bạc Liêu là gì ?", "Bạc Liêu có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bạc Liêu."],
+      "Answer": "Tỉnh lỵ của Bạc Liêu là Thành Phố Bạc Liêu",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bắc Giang là gì ?", "Bắc Giang có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bắc Giang."],
+      "Answer": "Tỉnh lỵ của Bắc Giang là Thành Phố Bắc Giang",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bắc Kạn là gì ?", "Bắc Kạn có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bắc Kạn."],
+      "Answer": "TỉnH lỵ của Bắc Kạn là Thành Phố Bắc Kạn",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bắc Ninh là gì ?", "Bắc Ninh có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bắc Ninh."],
+      "Answer": "Tỉnh lỵ của Bắc Ninh là Thành Phố Bắc Ninh",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bến Tre là gì ?", "Bến Tre có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bến Tre."],
+      "Answer": "Tỉnh lỵ của Bến Tre là Thành Phố Bến Tre",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bình Dương là gì ?", "Bình Dương có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bình Dương."],
+      "Answer": "Tỉnh lỵ của Bình Dương là Thành Phố Thủ Dầu Một",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bình Định là gì ?", "Bình Định có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bình Định."],
+      "Answer": "Tỉnh lỵ của Bình Định là Thành Phố Quy Nhơn",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Bình Thuận là gì ?", "Bình Thuận có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Bình Thuận."],
+      "Answer": "Tỉnh lỵ của Bình Thuận là Thành Phố Phan Thiết",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Cà Mau là gì ?", "Cà Mau có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Cà Mau."],
+      "Answer": "Tỉnh lỵ của Cà Mau là Thành Phố Cà Mau",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Cao Bằng là gì ?", "Cao Bằng có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Cao Bằng."],
+      "Answer": "Tỉnh lỵ của Cao Bằng là Thành Phố Cao Bằng",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Cần Thơ là gì ?", "Cần Thơ có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Cần Thơ."],
+      "Answer": "Tỉnh lỵ của Quận Ninh Kiều",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Đà Nẵng là gì ?", "Đà Nẵng có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Đà Nẵng."],
+      "Answer": "Tỉnh lỵ của Đà Nẵng là Quận Hải Châu",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Đắk Lắk là gì ?", "Đắk Lắk có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Đắk Lắk."],
+      "Answer": "Tỉnh lỵ của Đắk Lắk là Thành Phố Buôn Mê Thuột",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Đắk Nông là gì ?", "Đắk Nông có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Đắk Nông."],
+      "Answer": "Tỉnh lỵ của Đắk Nôngn là Thành Phố Gia Nghĩa",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Điện Biên là gì ?", "Điện Biên có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Điện Biên."],
+      "Answer": "Tỉnh lỵ của Điện Biên là Thành Phố Điện Biên Phủ",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Đồng Nai là gì ?", "Đồng Nai có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Đồng Nai."],
+      "Answer": "Tỉnh lỵ của Đồng Nai là Thành Phố Biên Hòa",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Đồng Tháp là gì ?", "Đồng Tháp có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Đồng Tháp."],
+      "Answer": "Tỉnh lỵ của Đồng Tháp là Thành Phố Cao Lãnh",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Gia Lai là gì ?", "Gia Lai có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Gia Lai."],
+      "Answer": "Tỉnh lỵ của Gia Lai là Thành Phố Pleiku",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hà Giang là gì ?", "Hà Giang có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hà Giang."],
+      "Answer": "Tỉnh lỵ của Hà Giang là Thành Phố Hà Giang",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hà Nam là gì ?", "Hà Nam có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hà Nam."],
+      "Answer": "Tỉnh lỵ của Hà Nam là Thành Phố Phủ Lý",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hà Nội là gì ?", "Hà Nội có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hà Nội."],
+      "Answer": "Tỉnh lỵ của Hà Nội là Quận Hoàn Kiếm",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hà Tĩnh là gì ?", "Hà Tĩnh có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hà Tĩnh."],
+      "Answer": "Tỉnh lỵ của Hà Tĩnh là Thành Phố Hà Tĩnh",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hải Dương là gì ?", "Hải Dương có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hải Dương."],
+      "Answer": "Tỉnh lỵ của Hải Dương là Thành Phố Hải Dương",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hải Phòng là gì ?", "Hải Phòng có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hải Phòng."],
+      "Answer": "Tỉnh lỵ của Hải Phòng là Quận Hồng Bàng",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hậu Giang là gì ?", "Hậu Giang có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hậu Giang."],
+      "Answer": "Tỉnh lỵ của Hậu Giang là Thành Phố Thanh Vị",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hòa Bình là gì ?", "Hòa Bình có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hòa Bình."],
+      "Answer": "Tỉnh lỵ của Hòa Bình là Thành Phố Hòa Bình",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Thành Phố Hồ Chí Minh là gì ?", "Thành Phố Hồ Chí Minh có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Thành Phố Hồ Chí Minh."],
+      "Answer": "Tỉnh lỵ của Thành Phố Hồ Chí Minh là Quận 1",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Hưng Yên là gì ?", "Hưng Yên có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Hưng Yên."],
+      "Answer": "Tỉnh lỵ của Hưng Yên là Thành phố Hưng Yên",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Khánh Hòa là gì ?", "Khánh Hòa có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Khánh Hòa."],
+      "Answer": "Tỉnh lỵ của Khánh Hòa là Thành phố Nha Trang",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Kiên Giang là gì ?", "Kiên Giang có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Kiên Giang."],
+      "Answer": "Tỉnh lỵ của Kiên Giang là Thành phố Rạch Giá",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Kon Tum là gì ?", "Kon Tum có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Kon Tum."],
+      "Answer": "Tỉnh lỵ của Kon Tum là Thành phố Kon Tum",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Lai Châu là gì ?", "Lai Châu có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Lai Châu."],
+      "Answer": "Tỉnh lỵ của Lai Châu là Thành phố Lai Châu",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Lạng Sơn là gì ?", "Lạng Sơn có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Lạng Sơn."],
+      "Answer": "Tỉnh lỵ của Lạng Sơn là Thành phố Lạng Sơn",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Lào Cai là gì ?", "Lào Cai có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Lào Cai."],
+      "Answer": "Tỉnh lỵ của Lào Cai là Thành phố Lào Cai",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Lâm Đồng là gì ?", "Lâm Đồng có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Lâm Đồng."],
+      "Answer": "Tỉnh lỵ của Lâm Đồng là Thành phố Đà Lạt",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Long An là gì ?", "Long An có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Long An."],
+      "Answer": "Tỉnh lỵ của Long An là Thành phố Tân An",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Nam Định là gì ?", "Nam Định có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Nam Định."],
+      "Answer": "Tỉnh lỵ của Nam Định là Thành phố Nam Định",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Nghệ An là gì ?", "Nghệ An có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Nghệ An."],
+      "Answer": "Tỉnh lỵ của Nghệ An là Thành phố Vinh",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Ninh Bình là gì ?", "Ninh Bình có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Ninh Bình."],
+      "Answer": "Tỉnh lỵ của Ninh Bình là Thành phố Ninh Bình",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Ninh Thuận là gì ?", "Ninh Thuận có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Ninh Thuận."],
+      "Answer": "Tỉnh lỵ của Ninh Thuận là Thành phố Phan Rang – Tháp Chàm",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Phú Thọ là gì ?", "Phú Thọ có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Phú Thọ."],
+      "Answer": "Tỉnh lỵ của Phú Thọ là Thành phố Việt Trì",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Phú Yên là gì ?", "Phú Yên có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Phú Yên."],
+      "Answer": "Tỉnh lỵ của Phú Yên là Thành phố Tuy Hòa",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Quảng Bình là gì ?", "Quảng Bình có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Quảng Bình."],
+      "Answer": "Tỉnh lỵ của Quảng Bình là Thành phố Đồng Hới",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Quảng Nam là gì ?", "Quảng Nam có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Quảng Nam."],
+      "Answer": "Tỉnh lỵ của Quảng Nam là Thành phố Tam Kỳ",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Quảng Ngãi là gì ?", "Quảng Ngãi có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Quảng Ngãi."],
+      "Answer": "Tỉnh lỵ của Quảng Ngãi là Thành phố Quảng Ngãi",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Quảng Ninh là gì ?", "Quảng Ninh có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Quảng Ninh."],
+      "Answer": "Tỉnh lỵ của Quảng Ninh là Thành phố Hạ Long",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Quảng Trị là gì ?", "Quảng Trị có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Quảng Trị."],
+      "Answer": "Tỉnh lỵ của Quảng Trị là Thành phố Đông Hà",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Sóc Trăng là gì ?", "Sóc Trăng có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Sóc Trăng."],
+      "Answer": "Tỉnh lỵ của Sóc Trăng là Thành phố Sóc Trăng",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Sơn La là gì ?", "Sơn La có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Sơn La."],
+      "Answer": "Tỉnh lỵ của Sơn La là Thành phố Sơn La",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Tây Ninh là gì ?", "Tây Ninh có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Tây Ninh."],
+      "Answer": "Tỉnh lỵ của Tây Ninh là Thành phố Tây Ninh",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Thái Bình là gì ?", "Thái Bình có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Thái Bình."],
+      "Answer": "Tỉnh lỵ của Thái Bình là Thành phố Thái Bình",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Thái Nguyên là gì ?", "Thái Nguyên có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Thái Nguyên."],
+      "Answer": "Tỉnh lỵ của Thái Nguyên là Thành phố Thái Nguyên",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Thanh Hóa là gì ?", "Thanh Hóa có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Thanh Hóa."],
+      "Answer": "Tỉnh lỵ của Thanh Hóa là Thành phố Thanh Hóa",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Thừa Thiên Huế là gì ?", "Thừa Thiên Huế có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Thừa Thiên Huế."],
+      "Answer": "Tỉnh lỵ của Thừa Thiên Huế là Thành phố Huế",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Tiền Giang là gì ?", "Tiền Giang có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Tiền Giang."],
+      "Answer": "Tỉnh lỵ của Tiền Giang là Thành phố Mỹ Tho",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Trà Vinh là gì ?", "Trà Vinh có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Trà Vinh."],
+      "Answer": "Tỉnh lỵ của Trà Vinh là Thành phố Trà Vinh",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Tuyên Quang là gì ?", "Tuyên Quang có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Tuyên Quang."],
+      "Answer": "Tỉnh lỵ của Tuyên Quang là Thành phố Tuyên Quang",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Vĩnh Long là gì ?", "Vĩnh Long có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Vĩnh Long."],
+      "Answer": "Tỉnh lỵ của Vĩnh Long là Thành phố Vĩnh Long",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Vĩnh Phúc là gì ?", "Vĩnh Phúc có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Vĩnh Phúc."],
+      "Answer": "Tỉnh lỵ của Vĩnh Phúc là Thành phố Vĩnh Yên",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh lỵ của Yên Bái là gì ?", "Yên Bái có tỉnh lỵ là gì ?", "Hãy cho tôi thông tin tỉnh lỵ của Yên Bái."],
+      "Answer": "Tỉnh lỵ của Yên Bái là Thành phố Yên Bái",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["An Giang có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở An Giang.", "Những nơi đẹp ở An Giang."],
+      "Answer": "An Giang là một trong 10 vùng du lịch trọng điểm quốc gia có một số thắng cảnh tiêu biểu: Hồ Thoại Sơn, Thất Sơn (Bảy Núi), Rừng tràm Trà Sư.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bà Rịa - Vũng Tàu có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bà Rịa - Vũng Tàu.", "Những nơi đẹp ở Bà Rịa - Vũng Tàu."],
+      "Answer": "Khu Di tích Lịch sử cách mạng nhà tù Côn Đảo, Di tích Lịch sử văn hóa Bạch Dinh, Di tích trận địa Pháo cổ và Hầm thủy lôi Núi Lớn.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bạc Liêu có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bạc Liêu.", "Những nơi đẹp ở Bạc Liêu."],
+      "Answer": "Thế mạnh du lịch của Bạc Liêu là du lịch sinh thái, du lịch biển với những cảnh quan thiên nhiên độc đáo như vườn chim, vườn nhãn… đồng thời với những di tích lịch sử – văn hoá như: tháp cổ Vĩnh Hưng, Nọc Nạng, đền thờ Chủ tịch Hồ Chí Minh.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bắc Giang có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bắc Giang.", "Những nơi đẹp ở Bắc Giang."],
+      "Answer": "Khu di tích và danh thắng Tây Yên Tử thuộc Quần thể di tích danh thắng Yên Tử đang được 2 tỉnh Bắc Giang và Quảng Ninh lập hồ sơ đề nghị UNESCO công nhận di sản thế giới.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bắc Kạn có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bắc Kạn.", "Những nơi đẹp ở Bắc Kạn."],
+      "Answer": "Bắc Kạn là tỉnh giàu tiềm năng du lịch bởi sự phong phú của tài nguyên, khoáng sản và nền văn hoá đậm đà bản sắc dân tộc miền núi Đông Bắc Việt Nam: Hồ Ba Bể là danh thắng thiên nhiên được công nhận là Di tích lịch sử văn hoá Quốc gia năm 1996, Căn cứ địa cách mạng ATK Chợ Đồn: Một trong những khu căn cứ của Chủ tịch Hồ Chí Minh và các cán bộ cấp cao của Đảng Cộng sản Việt Nam trong kháng chiến chống thực dân Pháp.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bắc Ninh có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bắc Ninh.", "Những nơi đẹp ở Bắc Ninh."],
+      "Answer": "Bắc Ninh có 3 khu du lịch là: Khu du lịch văn hoá Quan họ Cổ Mễ (thành phố Bắc Ninh); khu du lịch văn hoá Đền Đầm (thành phố Từ Sơn); khu du lịch văn hoá Phật Tích (huyện Tiên Du).",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bến Tre có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bến Tre.", "Những nơi đẹp ở Bến Tre."],
+      "Answer": "Bến Tre có điều kiện thuận tiện để phát triển du lịch sinh thái, bởi ở đó còn giữ được nét nguyên sơ của miệt vườn, giữ được môi trường sinh thái trong lành trong màu xanh của những vườn dừa, vườn cây trái rộng lớn. Một số địa điểm du lịch có tiếng là: Sân chim Vàm Hồ, thuộc địa phận xã Tân Mỹ, huyện Ba Tri, là nơi trú ngụ của gần 500.000 con cò, vạc cùng các loài chim và thú hoang dã khác, Cồn Phụng (Cồn Ông Đạo Dừa) thuộc xã Tân Thạch, huyện Châu Thành, nằm trên một cù lao nổi giữa sông Tiền, có các di tích của đạo Dừa với các công trình kiến trúc độc đáo. Trên Cồn Phụng còn có làng nghề với các sản phẩm từ dừa và mật ong.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bình Dương có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bình Dương.", "Những nơi đẹp ở Bình Dương."],
+      "Answer": "Bình Dương có các làng nghề truyền thống, như điêu khắc gỗ, làm đồ gốm và tranh sơn mài. Từ xa xưa các sản phẩm gốm mỹ nghệ, sơn mài và điêu khắc của Bình Dương đã tham gia hội chợ quốc tế, đồng thời cũng đã xuất khẩu sang Pháp và nhiều nước trong khu vực. Di tích danh thắng: Địa đạo Tam giác sắt Tây Nam Bến Cát, Chợ Thủ Dầu Một, Núi Cậu Lòng Hồ Dầu Tiếng, Sở chỉ huy tiền phương chiến dịch Hồ Chí Minh, Chiến khu Đ",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bình Định có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bình Định.", "Những nơi đẹp ở Bình Định."],
+      "Answer": "Biển Kỳ Co nằm cách thành phố Quy Nhơn gần 25 km, thuộc xã Nhơn Lý, thành phố Quy Nhơn, tỉnh Bình Định, Kỳ Co mang một vẻ đẹp nguyên sơ quyến rũ với biển xanh, cát trắng, nắng vàng đẹp tựa một bức tranh vừa nên thơ vừa hùng vĩ, Kỳ Co còn được mệnh danh là chỉ cách thiên đường một bước chân, La Vuông Hoài Nhơn còn hoang sơ, điểm hấp dẫn chính là thiên nhiên, là khí hậu mát lạnh. Rừng La Vuông có khá nhiều cẩm tú cầu, mùa này đang nở rộ. Trên La Vuông không có điểm lưu trú, cũng không có nhà dân.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bình Phước có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bình Phước.", "Những nơi đẹp ở Bình Phước."],
+      "Answer": "Nằm trong khu vực chuyển tiếp từ vùng Nam Trung Bộ sang vùng hạ Tây Nam Bộ do đó cảnh quan thiên nhiên, môi trường sinh thái của Bình Phước tương đối đa dạng với những khu vực có cảnh quan thiên nhiên đẹp, hệ sinh thái còn được bảo tồn nguyên vẹn: Hồ suối Lam: khu vực xã Thuận Phú, Thác số 4, Hồ Sóc Xiêm.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Bình Thuận có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Bình Thuận.", "Những nơi đẹp ở Bình Thuận."],
+      "Answer": "Cù Lao Câu là một hòn đảo nổi lên giữa biển với chiều dài trên 1500m, nơi rộng nhất gần 700m và độ cao tối đa là hơn 7m. Hải đăng Kê Gà nằm tại xã Thuận Quý, huyện Hàm Thuận Nam cách  thành phố Phan Thiết 30km về hướng Nam.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Cà Mau có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Cà Mau.", "Những nơi đẹp ở Cà Mau."],
+      "Answer": "Cà Mau có nhiều di tích lịch sử cấp Quốc gia, cấp tỉnh; nhiều lễ hội truyền thống như lễ hội nghinh Ông, vía Bà, đua ghe ngo… mang đậm bản sắc văn hoá của 3 dân tộc anh em kinh – hoa – khmer.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Cao Bằng có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Cao Bằng.", "Những nơi đẹp ở Cao Bằng."],
+      "Answer": "Cao Bằng có núi, rừng, sông, suối trải dài hùng vĩ, bao la, thiên nhiên còn nhiều nét hoang sơ, nguyên sinh. Khu vực thác Bản Giốc và động Ngườm Ngao tại huyện Trùng Khánh là một thắng cảnh đẹp. Thác nằm trên dòng chảy của sông Quây Sơn, được ca ngợi là một trong những thác nước đẹp nhất trong khu vực và trên thế giới. Động Ngườm Ngao (dịch theo tiếng địa phương là hang hổ) là thế giới của nhũ đá thiên nhiên gồm hàng nghìn hình khối khác nhau, có cái như đụn gạo, đụn vàng, đụn bạc, hình voi, rồng, hổ báo, mây trời, cây cối, hoa lá, chim muông, các khe suối ngầm róc rách mát rượi. Nơi đây đã hình thành điểm du lịch hấp dẫn, thu hút các du khách đến từ khắp nơi trong và ngoài nước đến thưởng ngoạn. Ngoài ra phải kể đến hồ núi Thang Hen ở huyện Quảng Hòa, núi Phia Oắc ở huyện Nguyên Bình.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Cần Thơ có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Cần Thơ.", "Những nơi đẹp ở Cần Thơ."],
+      "Answer": "Các danh lam thắng cảnh nổi tiếng ở Cần Thơ bao gồm: Bến Ninh Kiều: nằm bên dòng sông Hậu Giang, là nơi thường xuyên được du khách và người dân địa phương đến tham quan và chiêm ngưỡng cảnh đẹp của sông nước ven đô. Cầu Bình Thủy: được xây dựng từ năm 1893, là cầu cổ nhất ở Cần Thơ. Cầu có thiết kế độc đáo, không giống bất kỳ cầu nào khác ở Việt Nam. Nhà thờ Chính Tòa Cần Thơ: là một di tích kiến trúc độc đáo, được xây dựng từ năm 1870 với kiểu kiến trúc Gothic. Đây là một trong những nhà thờ đẹp nhất tại miền Tây Nam Bộ.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Đà Nẵng có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Đà Nẵng.", "Những nơi đẹp ở Đà Nẵng."],
+      "Answer": "Là một thành phố trẻ của miền trung đầy nắng gió nhưng những danh lam thắng cảnh tại Đà Nẵng luôn có sức hấp dẫn lạ kỳ đến mọi du khách. Bán Đảo Sơn Trà, Ghềnh Bàng, Ngũ Hành Sơn, Núi Bà Nàhay quang cảnh nơi làng Nam Ô, Rạn Nam Ô còn hoang sơ yên vắng và Đèo Hải Vân ngoạn mục, du khách như được cảm nhận hết những tinh hoa của thiên nhiên đều quy tụ lại nơi bao danh lam thắng cảnh tại Đà Nẵng này. Đà Nẵng còn có Chùa Linh Ứng linh thiêng – nơi mang lại cho con người những khoảng khắc bình yên khoáng đạt, làm cho tâm hồn thêm rộng mở bao dung với đời. Hành trình khám phá các điểm thăm quan tại Đà Nẵng thêm thi vị bởi những nét đặc trưng để lại cho hành trình từ những chuyến tham quan ở Làng Chiếu Cẩm Nê, Làng Cổ Túy Loan, Làng đá mỹ nghệ Non Nước với bao điều giản dị của cuộc sống bình lặng nơi này. Đến thăm Nhà thờ Con Gà hay nhà cổ Hòa Vang, Thành Điện Hải hay Bảo tàng Điêu khắc Chăm, du khách lại có thêm cơ hội để hiểu nhiều hơn về thành phố này, tâm tư sẽ thêm những thổn thức khôn nguôi về vạn vật ở nơi đây.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Đắk Lắk có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Đắk Lắk.", "Những nơi đẹp ở Đắk Lắk."],
+      "Answer": "Du lịch Đắk Lắk đang có lợi thế với nhiều địa danh cho phép khai thác theo hướng kết hợp cảnh quan, sinh thái, môi trường và truyền thống văn hóa của nhiều dân tộc trong tỉnh như hồ Lắk, Thác Gia Long, cụm du lịch Buôn Đôn, Thác Krông Kmar, Diệu Thanh, Tiên Nữ… bên cạnh các vườn quốc gia, khu bảo tồn thiên nhiên Chư Yang Sin, Easo.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Đắk Nông có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Đắk Nông.", "Những nơi đẹp ở Đắk Nông."],
+      "Answer": "Thác Ba Tầng cách thị xã Gia Nghĩa 8 km ngược hướng thành phố Buôn Ma Thuột. Có tên gọi “Ba Tầng” là do thác có cấu trúc chia thành 3 tầng rõ rệt, nước chảy từ cao xuống thấp tạo nên khung cảnh tuyệt đẹp với những lớp bọt trắng xóa. Ngoài tên gọi trên, dòng thác còn có cái tên khác là thác Thủy Tiên. Thác Diệu Thanh (hay còn được gọi là thác Liêng Nung) cách thị trấn Gia Nghĩa hơn 11km. Thác Lưu Ly được mệnh danh là cô gái đẹp giữa núi Đắk Nông, nơi này cũng được nhiều khách du lịch tìm đến để tham quan.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Điện Biên có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Điện Biên.", "Những nơi đẹp ở Điện Biên."],
+      "Answer": "Điện Biên là tỉnh giàu tiềm năng du lịch, đặc biệt là về lĩnh vực văn hóa – lịch sử. Nổi bật nhất là hệ thống di tích lịch sử gắn liền với chiến dịch Điện Biên Phủ gồm: Sở chỉ huy chiến dịch Điện Biên Phủ (Mường Phăng); các cứ điểm Him Lam, Bản Kéo, Độc Lập; các đồi A1, C1, E1 và khu trung tâm tập đoàn cứ điểm của Pháp (hầm Đờ-cát Tơ-ri). Một điểm đến thu hút khách du lịch khác là thành Bản Phủ – đền thờ Hoàng Công Chất.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Đồng Nai có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Đồng Nai.", "Những nơi đẹp ở Đồng Nai."],
+      "Answer": "Đồng Nai có nhiều di tích lịch sử, văn hoá và các điểm du lịch có tiềm năng: Văn miếu Trấn Biên (Biên Hòa), đền thờ Nguyễn Hữu Cảnh, khu du lịch Bửu Long, khu du lịch ven sông Đồng Nai, Vườn quốc gia Nam Cát Tiên, làng bưởi Tân Triều, khu du lịch sinh thái Thác Mai - hồ nước nóng, Đảo Ó, chiến khu Đ, mộ cổ Hàng Gòn, đàn đá Bình Đa, khu du lịch thác Giang Điền, khu du lịch Long Châu Viên (Xuân Tân, Long Khánh), khu du lịch Vườn Xoài, khu di tích cấp quốc gia núi Chứa Chan (núi Gia Lào), Hồ Núi Le (Xuân Lộc), trung tâm hành hương Đức Mẹ núi Cúi (Gia Kiệm), khu du lịch Suối Mơ, làng du lịch Tre Việt, khu du lịch Bò Cạp Vàng, khu du lịch sinh thái Thủy Châu.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Đồng Tháp có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Đồng Tháp.", "Những nơi đẹp ở Đồng Tháp."],
+      "Answer": "Tỉnh Đồng Tháp có nhiều điểm du lịch và di tích lịch sử, trong đó có 1 di tích quốc gia đặc biệt là khu di tích gò tháp, có 12 di tích lịch sử văn hóa cấp quốc gia và 49 di tích cấp tỉnh. Các địa điểm tham quan như khu di tích Gò Tháp, khu di tích Xẻo Quýt, Lăng cụ Phó bảng Nguyễn Sinh Sắc, Đền thờ Thượng tướng Quận công Trần Văn Năng, Vườn quốc gia Tràm Chim, Nhà cổ Huỳnh Thủy Lê, Vườn cò Tháp Mười, Làng hoa cảnh Tân Quy Đông (Vườn hồng Sa Đéc).",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Gia Lai có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Gia Lai.", "Những nơi đẹp ở Gia Lai."],
+      "Answer": "Tiềm năng du lịch của Gia Lai rất phong phú, đa dạng với núi rùng cao có nhiều cảnh quan tự nhiên và nhân tạo. Rừng nguyên sinh nơi đây có hệ thống động thực vật phong phú, nhiều ghềnh thác, suối, hồ như Biển Hồ (hay Hồ T'Nưng) là một thắng cảnh nổi tiếng, ngoài ra có chùa Minh Thành (Gia Lai). Di tích Đền tưởng niệm liệt sỹ và Tượng đài Chiến thắng Đak Pơ tại huyện Đak Pơ - nơi tưởng niệm các liệt sỹ hi sinh trong trận đánh Đak Pơ.[46] Nhiều đồi núi như cổng trời Mang Yang, đỉnh Hàm Rồng, thác Hang Dơi và thác K50 (Huyện Kbang). Các cảnh quan nhân tạo có các rừng cao su, đồi chè, cà phê bạt ngàn. Kết hợp với tuyến đường rừng, có các tuyến dã ngoại bằng thuyền trên sông, cưỡi voi xuyên rừng,v.v…",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hà Giang có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hà Giang.", "Những nơi đẹp ở Hà Giang."],
+      "Answer": "Hà Giang là tỉnh có nhiều tiềm năng du lịch cả về thiên nhiên và văn hóa. Cao nguyên đá Đồng Văn nằm trải rộng trên bốn huyện Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc được công nhận là Công viên địa chất Toàn cầu vào năm 2010.Cao nguyên đá cũng là nơi có nhiều di tích danh thắng quốc gia đã được công nhận như: Di tích kiến trúc nhà Vương, Cột cờ Lũng Cú, phố cổ Đồng Văn, đèo Mã Pì Lèng, hẻm vực Tu Sản, núi Đôi Quản Bạ. Ruộng bậc thang Hoàng Su Phì - di tích danh thắng cấp quốc gia trải dài trên một khoảng diện tích hơn 3.700 ha, nằm trong địa giới hành chính của 24 xã, thị trấn thuộc huyện Hoàng Su Phì.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hà Nam có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hà Nam.", "Những nơi đẹp ở Hà Nam."],
+      "Answer": "Khu văn hóa tâm linh Tam Chúc trong đó có đình, chùa Tam Chúc từ thời Đinh đang được đầu tư xây dựng trở thành khu du lịch quốc gia, điểm nhấn của du lịch Hà Nam. Quần thể di tích đền Lăng gồm Đền Thượng, Đền Trung, Đền Hạ và Đền Tam Thiên Nhân thuộc thôn Cõi xã Liêm Cần, huyện Thanh Liêm là vua Đinh Tiên Hoàng và 3 vua nhà Tiền Lê (Lê Đại Hành, Lê Trung Tông, Lê Long Đĩnh) trên vùng đất tương truyền là quê hương của Vua Lê Hoàn.Chùa Bà Đanh: Mới được cải tạo lại từ năm 2010, nằm ở đoạn uốn khúc của dòng sông Đáy và nằm giữa đê sông Đáy và sông Đáy. Đền Trúc-Ngũ Động Sơn: nằm tại thôn Quyển Sơn, xã Thi Sơn, huyện Kim Bảng, cách Phủ Lý hơn 7 km theo quốc lộ 21A. Tương truyền Lý Thường Kiệt trên đường chiến thắng trở về đã cho quân dừng ở đây để tế lễ và ăn mừng. Sau này để tưởng nhớ ông, nhân dân trong vùng đã lập đền thờ dưới chân núi Cấm gọi là đền Trúc. Trong dãy núi còn có danh thắng Ngũ Động Sơn, là năm hang đá nối liền nhau thành một dãy động liên hoàn, có chiều sâu trên 100m.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hà Nội có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hà Nội.", "Những nơi đẹp ở Hà Nội."],
+      "Answer": "Các danh lam thắng cảnh nổi tiếng ở Hà Nội: Tháp Rùa – Hồ Hoàn Kiếm, Đền Ngọc Sơn, Nhà thờ Lớn Hà Nội, Hoàng thành Thăng Long – Cột cờ Hà Nội.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hà Tĩnh có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hà Tĩnh.", "Những nơi đẹp ở Hà Tĩnh."],
+      "Answer": "Có Khu lưu niệm Đại thi hào Nguyễn Du, Khu di tích quốc gia đền thờ Biện Hoành, Khu di tích lịch sử quốc gia đền thờ Nguyễn Xí làng Cương Gián, Khu di tích lịch sử Ngã ba Đồng Lộc, Di tích cách mạng 1930 Đình Hoa Vân Hải, Khu di tích đại danh y Hải Thượng Lãn Ông",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hải Dương có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hải Dương.", "Những nơi đẹp ở Hải Dương."],
+      "Answer": "Một số di tích được Bộ văn hóa thông tin xếp hạng (gắn liền với nhân vật lịch sử, sự kiện lịch sử hay văn hóa địa phương): Đền Kiếp Bạc, Kính Chủ - An Phụ, Đền Cao ở An Lạc, Bến Bình Than - Trần Xá",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hải Phòng có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hải Phòng.", "Những nơi đẹp ở Hải Phòng."],
+      "Answer": "Khu du lịch biển Đồ Sơn: Đồ Sơn là khu nghỉ mát nằm cách thành phố Hà Nội 120 km và cách trung tâm thành phố Hải Phòng 20 km. Đây là một bán đảo nhỏ được bao quanh bởi núi, vươn dài ra biển có những bãi cát mịn trên những bờ biển rợp bóng phi lao. Trong lịch sử, Đồ Sơn là nơi nghỉ ngơi của vua chúa, quan lại đô hộ; với ngôi nhà bát giác kiên cố của Bảo Đại - ông vua cuối cùng của triều đại phong kiến Việt Nam. Ngày nay, Đồ Sơn là một điểm đến lý tưởng của khách du lịch trong ngày hè, với chất lượng dịch vụ tốt và giá cả tương đối mềm. Đồ Sơn còn có casino duy nhất ở Việt Nam, cùng với hệ thống sân golf đạt chuẩn quốc tế. Quần đảo Cát Bà: Cát Bà là đảo lớn nhất trong hệ thống quần đảo gồm 366 đảo nhỏ thuộc vịnh Lan Hạ (một phần của Vịnh Hạ Long, Đảo Cát bà là đảo lớn nhất Vịnh Hạ Long), cách thành phố Hải Phòng 70 km. Cát Bà có những bãi biển trong xanh trải dài trên những bãi cát trắng mịn màng và hệ thống sinh thái rừng ngập mặn, nhiệt đới xanh quanh năm. Đến Cát Bà du khách có thể đến thăm vịnh Lan Hạ, động Trung Trang, động Trung Sơn, động Phù Long, vườn quốc gia Cát Bà hay tham gia tắm biển, chèo thuyền kayak, lặn biển và thưởng thức đặc sản biển nổi tiếng. Đặc biệt trong khu rừng nguyên sinh Cát Bà có loài Voọc đầu vàng, loài thú cực quý hiếm trên thế giới chỉ có tại Cát Bà.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hậu Giang có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hậu Giang.", "Những nơi đẹp ở Hậu Giang."],
+      "Answer": "Có Di tích lịch sử đặc biệt chiến thắng Chương Thiện - Công viên Chiến Thắng, Di tích Khu trù mật Vị Thanh - Hỏa Lựu - Khu văn hóa Hồ Sen, Di tích lịch sử chiến thắng Cái Sình.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hòa Bình có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hòa Bình.", "Những nơi đẹp ở Hòa Bình."],
+      "Answer": "Hòa Bình là một tỉnh có khá nhiều những suối nước khoáng nóng, những thung lũng hoang sơ huyền bí. Tiêu biểu nổi bật như: Suối nước khoáng Kim Bôi với nguồn nước phun lên ở nhiệt độ 36 °C, đủ tiêu chuẩn dùng làm nước uống, để tắm, chữa bệnh. Nước suối Kim Bôi đã được đóng chai làm nước giải khát, nó cùng loại với nước khoáng Thạch Bích ở Quảng Ngãi, Kum-dua ở Nga và Paven Barbia của Hungari. Thung lũng Mai Châu thuộc huyện lỵ Mai Châu là một thung lũng với đồng lúa và những nếp nhà sàn được quy hoạch bảo tồn phục vụ du lịch. Đà Bắc- một huyện vùng cao thích hợp cho du khách tham quan du lịch sinh thái và văn hóa. Đà Bắc với cảnh quan nguyên sơ yên ả, thơ mộng của thị trấn miền núi tây bắc.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Thành Phố Hồ Chí Minh có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Thành Phố Hồ Chí Minh.", "Những nơi đẹp ở Thành Phố Hồ Chí Minh."],
+      "Answer": "Danh sách 5 danh lam thắng cảnh nổi tiếng ở Sài Gòn: Nhà thờ Đức Bà Sài Gòn, Dinh Độc Lập, Khu di tích lịch sử Địa đạo Củ Chi, Bến Nhà Rồng, Bảo tàng chứng tích chiến tranh Việt Nam.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Hưng Yên có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Hưng Yên.", "Những nơi đẹp ở Hưng Yên."],
+      "Answer": "Hưng Yên đang dần trở thành một địa chỉ hấp dẫn du khách trong và ngoài nước đến với các khu, điểm du lịch của tỉnh như khu di tích qốc gia đặc biệt Phố Hiến (đền Mẫu, đền Trần, chùa Chuông, Văn miếu Xích Đằng...) gắn với phát triển du lịch đường sông; điểm du lịch di tích đền Đa Hoà - Dạ Trạch gắn với tour du lịch sông Hồng; điểm du lịch di tích đền Đậu An; cụm di tích quốc gia đình Đại Đồng, đình Đanh Xá; di tích đền Ghênh và chùa Nôm; khu đô thị sinh thái Ecopark, du lịch cộng đồng gắn với các làng nghề, sản phẩm nông nghiệp tiêu biểu.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Khánh Hòa có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Khánh Hòa.", "Những nơi đẹp ở Khánh Hòa."],
+      "Answer": "Đã từ lâu, Nha Trang nổi tiếng là điểm du lịch có nhiều danh lam thắng cảnh, nhiều cảnh đẹp do thiên nhiên ban tặng: Chùa Suối Đổ, Hòn Chồng, Khu bảo tồn thiên nhiên Hòn Bà",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Kiên Giang có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Kiên Giang.", "Những nơi đẹp ở Kiên Giang."],
+      "Answer": "Khu dự trữ sinh quyển ven biển và biển đảo Kiên Giang đã được UNESCO công nhận là khu dự trữ sinh quyển thế giới. Khu DTSQ Kiên Giang chứa đựng sự phong phú, đa dạng và đặc sắc về cảnh quan và hệ sinh thái như rừng tràm trên đất ngập nước, rừng trên núi đá, hệ sinh thái biển mà trong đó tiêu biểu là thảm cỏ biển gắn liền với loài động vật quý hiếm là bò biển. Khu DTSQ Kiên Giang trùm lên địa phận Phú Quốc, An Minh, Vĩnh Thuận, Kiên Lương và Kiên Hải, có ba vùng lõi thuộc các Vườn quốc gia U Minh Thượng, VQG Phú Quốc, và Rừng phòng hộ ven biển Kiên Lương - Kiên Hải. Thắng cảnh chùa Hang (Kiên Lương) với hòn Phụ Tử nổi tiếng. Thạch Động: Cách biên giới Campuchia chưa được 3 km đường chim bay, từ xa hình giống như nón của người lính kỵ binh Anh thời xưa. Đảo Phú Quốc, hòn đảo lớn nhất Việt Nam, là hòn đảo ngọc hiện đang được chú ý bởi những ai thích vẻ hoang sơ của nó. Hiện nay tốc độ tăng trưởng du lịch của Phú Quốc được coi như là cao nhất với mức tăng luôn từ 100% trở lên so với năm trước đó.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Kon Tum có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Kon Tum.", "Những nơi đẹp ở Kon Tum."],
+      "Answer": "Kon Tum có nhiều cảnh quan tự nhiên như hồ Ya ly, rừng thông Măng Đen, khu bãi đá thiên nhiên Km 23, thác Đắk Nung, suối nước nóng Đăk Tô và các khu rừng đặc dụng, khu bảo tồn thiên nhiên… có khả năng hình thành các khu du lịch cảnh quan, an dưỡng. Các cảnh quan sinh thái này có thể kết hợp với các di tích lịch sử cách mạng như di tích cách mạng ngục Kon Tum, ngục Đăk Glei, di tích chiến thắng Đăk Tô - Tân Cảnh, chiến thắng Plei Kần, chiến thắng Măng Đen… các làng văn hoá truyền thống bản địa tạo thành các cung, tuyến du lịch sinh thái - nhân văn.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Lai Châu có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Lai Châu.", "Những nơi đẹp ở Lai Châu."],
+      "Answer": "Lai Châu có 20 dân tộc, mỗi dân tộc đều có những nét riêng trong đời sống văn hoá truyền thống. Chợ phiên vùng cao là nơi biểu hiện rất rõ những nét văn hoá đặc trưng đó. Dinh thự Đèo Văn Long thuộc xã Lê Lợi – huyện Nậm Nhùn, là khu dinh thự của vị chúa Thái thời Chiến tranh Đông Dương. Dinh thự trở thành di tích lịch sử, giáo dục lòng tự hào dân tộc và là nơi tham quan tìm hiểu những nét kiến trúc đặc trưng, mang bản sắc văn hóa Thái. Bia Lê Lợi: được khắc trên vách đá bờ Bắc sông Đà, nay thuộc xã Lê Lợi – huyện Nậm Nhùn. Di chỉ khảo cổ học nền văn minh của người Việt cổ như di tích Nậm Phé, Nậm Tun ở Phong Thổ; đã tìm thấy công cụ của thời kỳ đồ đá; những công cụ bằng đồng của nền văn hoá Đông Sơn thời đại Hùng Vương, như­ trống đồng",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Lạng Sơn có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Lạng Sơn.", "Những nơi đẹp ở Lạng Sơn."],
+      "Answer": "Một số địa điểm du lịch văn hóa, tâm linh, lịch sử, danh thắng ở Lạng Sơn: Cụm danh thắng chùa và động Tam Thanh (thành phố Lạng Sơn). Chùa xây dựng từ thời Hậu Lê, lòng động có chiều dài 50m. Chùa động Tam Thanh là một trong Trấn Doanh Bát Cảnh của xứ Lạng. Đền Bắc Lệ (huyện Hữu Lũng) thờ Bà chúa thượng ngàn (nữ thần núi) và các cô, các cậu trong tục thờ Mẫu cộng đồng. Đây cũng là điểm thu hút du khách tới lễ Mẫu và vãn cảnh. Núi Vọng Phu, thành cổ nhà Mạc, chùa Nhất Thanh, Chùa Tam Giáo và động Nhị Thanh đều là những thắng cảnh đẹp ở thành phố Lạng Sơn (gần cụm danh thắng chùa động Tam Thanh). Hội chợ Kỳ Lừa (thành phố Lạng Sơn) là điểm dừng chân của nhiều du khách khi đến với xứ Lạng.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Lào Cai có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Lào Cai.", "Những nơi đẹp ở Lào Cai."],
+      "Answer": "Thác Cát Cát được xếp hạng là di tích danh lam thắng cảnh cấp tỉnh, Đỉnh Phan xi Păng – Nóc nhà Đông Dương, Núi Hàm Rồng, Bản Cát Cát, Bản Tả Phìn.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Lâm Đồng có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Lâm Đồng.", "Những nơi đẹp ở Lâm Đồng."],
+      "Answer": "Lâm Đồng có nhiều thắng cảnh nổi tiếng như các thác nước tại huyện Đức Trọng và những thắng cảnh thiên nhiên tại Đà Lạt như Hồ Than Thở, Hồ Xuân Hương. Tuy nhiên, trong thời gian gần đây, do không được quan tâm bảo trì đúng mức, cảnh quan nhiều thắng cảnh đang bị phá hủy. Ngày nay 10 trong số 17 thắng cảnh quốc gia xuống cấp, trong đó có ba ngọn thác ở huyện Đức Trọng đã được xếp hạng quốc gia tại Lâm Đồng đã biến mất gồm: thác Gougah, thác Liên Khương và thác Bảo Đại",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Long An có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Long An.", "Những nơi đẹp ở Long An."],
+      "Answer": "Danh sách các Di tích tại tỉnh Long An: Lăng Mộ và đền thờ ông Nguyễn Huỳnh Đức, Chùa Tôn Thạnh, Nhà trăm cột, Di tích Vàm Nhựt Tảo, Cụm di tích Bình Tả.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Nam Định có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Nam Định.", "Những nơi đẹp ở Nam Định."],
+      "Answer": "Di tích lịch sử: Hành cung Thiên Trường xây dựng thời Trần, Tháp chuông chùa Phổ Minh ngày trước có vạc Phổ Minh là một trong An Nam tứ đại khí, Thành Nam Định xây dựng thời Nguyễn, Cột cờ Nam Định xây thời Nguyễn, cùng với thành cổ Nam Định.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Nghệ An có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Nghệ An.", "Những nơi đẹp ở Nghệ An."],
+      "Answer": "Làng Sen, quê nội của Hồ Chí Minh, tên chữ là Kim Liên (bông sen vàng), Khu du lịch Cửa Lò, Vườn Quốc gia Pù Mát thuộc huyện Con Cuông, nằm trên sườn Đông của dải Trường Sơn, dọc theo biên giới Việt Lào.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Ninh Bình có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Ninh Bình.", "Những nơi đẹp ở Ninh Bình."],
+      "Answer": "Ninh Bình có tiềm năng du lịch rất lớn, là nơi có tới 4 danh hiệu UNESCO với quần thể di sản thế giới Tràng An, ca trù, tín ngưỡng thờ Mẫu và khu dự trữ sinh quyển thế giới Bãi ngang - Cồn Nổi. Nơi đây sở hữu nhiều danh lam, thắng cảnh và di tích lịch sử văn hoá nổi tiếng như: Cố đô Hoa Lư là kinh đô của nhà nước phong kiến tập quyền đầu tiên ở Việt Nam, hiện còn nhiều di tích cung điện, đền, chùa, lăng mộ, Chùa Bái Đính là một quần thể gồm khu chùa cổ và khu chùa mới với quy mô là ngôi chùa lớn nhất Đông Nam Á, là ngôi chùa sở hữu nhiều kỷ lục nhất Việt Nam, Quần thể danh thắng Tràng An với hệ thống các hang động, thung nước, rừng cây và các di tích lịch sử gắn với kinh thành xưa của cố đô Hoa Lư, Vườn quốc gia Cúc Phương với diện tích rừng nguyên sinh khoảng 22.000 ha, là rừng quốc gia đầu tiên của Việt Nam, Khu bảo tồn thiên nhiên Vân Long là khu bảo tồn thiên nhiên ngập nước lớn nhất đồng bằng Bắc Bộ, đã được công nhận là Khu Ramsar của Thế giới.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Ninh Thuận có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Ninh Thuận.", "Những nơi đẹp ở Ninh Thuận."],
+      "Answer": "Nơi đây còn lưu giữ, bảo tồn nhiều công trình văn hóa kiến trúc cổ Chămpa gắn với các lễ hội văn hóa dân tộc Chăm. Nhiều tháp Chăm như Pôklong Grai (Tháp Chăm), tháp Pôrômê (Ninh Phước). Hiện Ninh Thuận còn 3 tháp Chăm, được xây dựng cách đây khoảng 400–1100 năm gồm có Tháp Hòa Lai (Ba Tháp), Tháp Po Klong Garai, Tháp Po Rome. Các làng nghề Chăm cổ gồm Làng gốm Bàu Trúc và Làng thổ cẩm Mỹ Nghiệp.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Phú Thọ có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Phú Thọ.", "Những nơi đẹp ở Phú Thọ."],
+      "Answer": "Quần thể di tích Làng cổ Hùng Lô, Bảo tàng thiên nhiên Vườn quốc gia Xuân Sơn, Đền Hùng - Linh thiêng hội tụ chốn mây ngàn.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Phú Yên có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Phú Yên.", "Những nơi đẹp ở Phú Yên."],
+      "Answer": "Phú Yên được biết đến là một vùng đất hoang sơ, xinh đẹp với nhiều bãi biển, đầm vũng, di tích lịch sử văn hoá như Núi Nhạn, Núi Đá Bia,Vũng Rô, Bãi Môn - Mũi Điện, Đầm Ô Loan,Gành Đá Đĩa, Nhà thờ Mằng Lăng, Vịnh Xuân Đài, Đập Đồng Cam. Ngoài ra Phú Yên còn rất nhiều danh thắng khác như Bãi Xép, biển Vịnh Hoà, đồi cát Từ Nham, hòn Nưa, hòn Chùa, Nhất Tự Sơn, bãi Bàu, hòn Yến, Gành Đèn, thác Cây Đu, thác H’Ly, Cao nguyên Vân Hòa... Sự kiện bộ phim “Tôi thấy hoa vàng trên cỏ xanh” đã tạo động lực cho du lịch Phú Yên phát triển mạnh mẽ và đang trở thành điểm dừng chân đầy thú vị trên bản đồ du lịch Việt Nam.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Quảng Bình có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Quảng Bình.", "Những nơi đẹp ở Quảng Bình."],
+      "Answer": "Quảng Bình nổi tiếng với di sản thiên nhiên thế giới Vườn quốc gia Phong Nha - Kẻ Bàng và Hang Sơn Đoòng - Hang động tự nhiên lớn nhất thế giới. Hang Sơn Đoòng cách Đồng Hới 70 km và là một dải kỳ quan nằm sâu trong lòng núi, cách đỉnh núi 800 – 900 m. Dài 7729 m, động có 14 hang do dòng sông ngầm dài 13.969 m hòa tan đá vôi tạo thành. Vườn quốc gia Phong Nha-Kẻ Bàng đã UNESCO công nhận là di sản thiên nhiên thế giới năm 2003. Động Phong Nha là một động đẹp có sông ngầm và có bảy cái nhất: (1) Hang nước dài nhất; (2) Cửa hang cao và rộng nhất; (3) Bãi cát, đá rộng và đẹp nhất; (4) Hồ ngầm đẹp nhất; (5) Thạch nhũ tráng lệ và kỳ ảo nhất; (6) Dòng sông ngầm dài nhất Việt Nam; (7) Hang khô rộng và đẹp nhất.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Quảng Nam có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Quảng Nam.", "Những nơi đẹp ở Quảng Nam."],
+      "Answer": "Quảng Nam, hay gọi âm địa phương là Quảng Nôm, là một tỉnh thuộc vùng Duyên hải Nam Trung Bộ, Việt Nam. Tên gọi Quảng Nam có nghĩa là mở rộng về phương Nam. Đây là vùng đất giàu truyền thống văn hóa nên có rất nhiều di tích lịch sử, bên cạnh đó cũng là nơi có nhiều danh lam thắng cảnh nổi tiếng. Phố cổ Hội An là một đô thị cổ kính yên bình nằm ở hạ lưu sông Thu Bồn, thuộc tỉnh Quảng Nam. Được hình thành từ thế kỷ 16, đến nay vẫn giữ nguyên hầu hết cảnh quan kiến trúc và phong cách bài trí trong các căn nhà gỗ. Đô thị chỉ cách Đà Nẵng non nửa giờ chạy xe với cự ly 30 km.Thánh địa Mỹ Sơn thuộc xã Duy Phú, huyện Duy Xuyên, tỉnh Quảng Nam, cách thành phố Đà Nẵng khoảng 69 km và cách thành cổ Trà Kiệu khoảng 20 km, là tổ hợp bao gồm nhiều đền đài Chăm Pa, trong một thung lũng đường kính khoảng 2 km, bao quanh bởi đồi núi.Di tích Trà Kiệu, làng Trà Kiệu, xã Duy Sơn, huyện Duy Xuyên, tỉnh Quảng Nam. Cách thành phố Ðà Nẵng khoảng 45 km về phía tây nam, di tích nằm trên một dải đồng bằng, là cửa của một thung lũng rộng hình tam giác, các ngọn núi: Chóp Xôi, Núi Chúa, Núi Ðất... nối liền nhau tạo nên hai bức tường thành tự nhiên bảo vệ hai cạnh phía tây bắc và tây nam của thung lũng. Trong thung lũng, làng mạc đông đúc dân cư, ruộng đồng tươi tốt. Vượt qua một dãy núi thấp phía tây nam là đến thung lũng Mỹ Sơn, thánh địa nổi tiếng của Vương quốc Champa. Di tích Khương Mỹ thuộc xã Tam Xuân, huyện Núi Thành, tỉnh Quảng Nam, gần Quốc lộ 1A, cách thành phố Đà Nẵng khoảng 75km về phía Tây - Nam. Bao gồm 3 tháp liên hoàn nằm kề nhau, được xây dựng khoảng đầu thế kỷ X. Tại đây đã phát hiện nhiều tác phẩm điêu khắc (hiện được trưng bày tại Bảo tàng điêu khắc Champa Đà Nẵng) và nhiều chum vại có niên đại khoảng vài trăm năm.Hòn Kẽm Đá Dừng là thắng cảnh nổi tiếng của cả vùng Tây Quế Sơn, thuộc xứ Quảng Nam - là địa điểm du lịch thu hút du khách bật nhất của Quảng Nam.Cù Lao Chàm là một cụm đảo xã đảo Tân Hiệp, thành phố Hội An, tỉnh Quảng Nam, nằm cách bờ biển Cửa Đại khoảng 15 km. Cù Lao Chàm dù nằm trong khu vực du lịch nổi tiếng với Đà Nẵng - Hội An - Cửa Đại - Thánh địa Mỹ Sơn nhưng vẫn còn nhiều nét hoang sơ. Nơi đây được UNESCO công nhận là Khu dự trữ sinh quyển thế giới vào năm 2009 và là một điểm du lịch thú vị dành cho nhóm bạn hoặc các cặp đôi.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Quảng Ngãi có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Quảng Ngãi.", "Những nơi đẹp ở Quảng Ngãi."],
+      "Answer": "Quảng Ngãi là vùng đất có bề dày lịch sử với nền văn hoá lâu đời như khu du lịch văn hoá Sa Huỳnh, dấu vết văn hoá cổ xưa như thành cổ Châu Sa, Gò Vàng…, có di tích lịch sử Ba Tơ, Sơn Mỹ, Ba Gia, Trà Bồng, Vạn Tường, nhiều cảnh đẹp như Thiên Ấn Niêm Hà, Thiên Bút Phê Vân, Thạch Bích Tà Dương, Cổ Luỹ Cô Thôn, Nước Trong – Cà Đam…, nhiều bãi biển như Mỹ Khê, Sa Huỳnh,… những tiềm năng trên là điều kiện để phát triển du lịch nghỉ dưỡng với nhiều loại hình, sản phẩm du lịch đa dạng",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Quảng Ninh có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Quảng Ninh.", "Những nơi đẹp ở Quảng Ninh."],
+      "Answer": "Quảng Ninh là một trong những trung tâm du lịch hàng đầu Việt Nam, giàu tiềm năng du lịch, sở hữu nhiều danh lam thắng cảnh nổi tiếng. Vịnh Hạ Long: di sản thiên nhiên thế giới, có diện tích 1.553 km² với 1969 đảo. Trong đó khu di sản thế giới được UNESCO công nhận có diện tích trên 434 km² với 788 đảo, có giá trị đặc biệt về văn hoá, thẩm mĩ, địa chất, sinh học và kinh tế. Trên vịnh có nhiều đảo đất, hang động, bãi tắm, cảnh quan đẹp thuận lợi cho phát triển nhiều điểm, nhiều hình thức du lịch hấp dẫn. Vịnh Hạ Long cùng với đảo Cát Bà là khu du lịch trọng điểm quốc gia, động lực phát triển vùng du lịch Bắc Bộ. Vịnh Bái Tử Long nằm liền với vịnh Hạ Long ở phía bắc với nhiều đảo đá trải dài ven biển. Một vẻ đẹp hoang sơ cùng với các bãi tắm tại các đảo như Quan Lạn, Minh Châu, Ngọc Vừng...(Vân Đồn). Phục vụ các du khách thích khám phá tận hưởng vẻ đẹp nguyên sơ của thiên nhiên. Hàng chục bãi tắm bãi tắm đẹp hiện đại như Trà Cổ (Móng Cái), Bãi Cháy, đảo Tuần Châu được cải tạo, nâng cấp với nhiều loại hình dịch vụ phục vụ đa dạng các nhu cầu của du khách. Đảo Cô Tô (phía đông bắc Quảng Ninh). Các bãi tắm đẹp như Hồng Vàn, Bắc Vàn, Vàn Chảy, đảo Cô Tô Con. Được đánh giá là những bãi biển đẹp nhất tại phía bắc.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Quảng Trị có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Quảng Trị.", "Những nơi đẹp ở Quảng Trị."],
+      "Answer": "Trong những năm Chiến tranh Việt Nam, Quảng Trị là một trong những nơi bị thả bom nhiều nhất. Ngày nay Quảng Trị là nơi có nhiều địa danh, di tích lịch sử và có nhiều tiềm năng du lịch tự nhiên và nhân văn khá phong phú, phân bố rộng khắp trên các địa bàn trong tỉnh và gần các trục giao thông chính nên rất thuận lợi cho khai thác: Đảo Cồn Cỏ-Hòn Ngọc giữa Biển Đông, Sân bay Tà Cơn, Hệ thống Giếng cổ Gio An, Cầu treo Đakrông, Đường mòn Hồ Chí Minh, Thành cổ Quảng Trị (là một nơi gắn liền với chiến dịch mùa hè 1972), Nghĩa trang liệt sĩ Quốc gia Trường Sơn",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Sóc Trăng có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Sóc Trăng.", "Những nơi đẹp ở Sóc Trăng."],
+      "Answer": "Ngoài chùa chiền và các lễ hội đặc sắc. Sóc Trăng còn có những địa điểm tham quan như: Hồ Nước Ngọt: khu công viên văn hóa này rộng khoảng 20ha, tọa lạc trên đường Hùng Vương, thành phố Sóc Trăng, Chợ nổi Ngã Năm: nằm tại trung tâm thị xã Ngã Năm, Cồn Mỹ Phước: nằm gần cuối hạ lưu sông Hậu, thuộc địa phận xã Nhơn Mỹ, huyện Kế Sách.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Sơn La có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Sơn La.", "Những nơi đẹp ở Sơn La."],
+      "Answer": "Sơn La có các di tích như Nhà tù Sơn La, bảo tàng Sơn La ở thành phố Sơn La, chùa Chiền Viện ở Mộc Châu...",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tây Ninh có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Tây Ninh.", "Những nơi đẹp ở Tây Ninh."],
+      "Answer": "Định hướng phát triển thời gian tới, đến năm 2030, Tây Ninh sẽ phát triển du lịch trở thành ngành kinh tế mũi nhọn.[20] Thậm chí, trong dịp Tết Nguyên đán 2022, ngành du lịch Tây Ninh đứng đầu cả nước.[26] Theo báo cáo từ Sở Văn hóa, Thể thao và Du lịch Tây Ninh, du lịch Tây Ninh có đến gần 90% du khách đến Tây Ninh để thăm quan Khu du lịch Núi Bà Đen và Tòa Thánh Tây Ninh.[27] Tây Ninh nổi tiếng với những phong cảnh thiên nhiên hùng vĩ và những công trình nhân tạo hoành tráng: Núi Bà Đen cao 986 m, là ngọn núi cao nhất miền Nam Việt Nam, Vườn quốc gia Lò Gò - Xa Mát, Hồ Dầu Tiếng",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Thái Bình có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Thái Bình.", "Những nơi đẹp ở Thái Bình."],
+      "Answer": "Biển Đồng Châu thuộc huyện Tiền Hải, cách thành phố Thái Bình 35 km theo tỉnh lộ đi Kiến Xương - Tiền Hải, Khu du lịch sinh thái biển Cồn Vành, Khu du lịch sinh thái biển Cồn Đen.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Thái Nguyên có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Thái Nguyên.", "Những nơi đẹp ở Thái Nguyên."],
+      "Answer": "Khu du lịch hồ Núi Cốc, cách thành phố Thái Nguyên 20 km về phía tây (giáp dãy núi Tam Đảo) là khu du lịch lớn nhất của tỉnh. Bảo tàng văn hóa các dân tộc Việt Nam với diện tích 40.000 m², nằm ngay tại trung tâm thành phố Thái Nguyên. Di tích đền Đội Cấn, công viên Sông Cầu tại trung tâm thành phố Thái Nguyên. Khu du lịch hang Phượng Hoàng và suối Mỏ Gà (là suối chảy ra từ núi đá) tại huyện Võ Nhai, cách thành phố Thái Nguyên 45 km.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Thanh Hóa có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Thanh Hóa.", "Những nơi đẹp ở Thanh Hóa."],
+      "Answer": "Các khu du lịch, di tích lịch sử và danh thắng nổi tiếng của tỉnh: Các khu du lịch biển: Bãi biển Sầm Sơn, Bãi biển Hải Hòa, Biển Hải Tiến. Các khu bảo tồn thiên nhiên: Vườn quốc gia Bến En: Thuộc huyện Như Thanh cách thành phố Thanh Hóa 36 km về phía Tây Nam, rộng 16,634 ha với những cây lim ngàn tuổi, lát hoa, chò chỉ, ngù hương, săng lẻ... và nhiều loài thú như voi, gấu, hổ, khỉ..., Vườn quốc gia Cúc Phương: một phần thuộc huyện Thạch Thành, Các khu bảo tồn: Khu bảo tồn thiên nhiên Pù Hu, Khu bảo tồn thiên nhiên Pù Luông, Khu bảo tồn thiên nhiên Xuân Liên, Khu bảo tồn thiên nhiên rừng sến Tam Quy.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Thừa Thiên Huế có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Thừa Thiên Huế.", "Những nơi đẹp ở Thừa Thiên Huế."],
+      "Answer": "Thừa Thiên Huế có 5 danh hiệu UNESCO (1 di sản văn hoá thế giới, 1 di sản văn hóa phi vật thể, 3 di sản tư liệu thế giới) là: Quần thể di tích Cố đô Huế, Nhã nhạc cung đình Huế, Mộc bản triều Nguyễn, Châu bản triều Nguyễn, Hệ thống thơ văn trên kiến trúc cung đình Huế.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tiền Giang có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Tiền Giang.", "Những nơi đẹp ở Tiền Giang."],
+      "Answer": "Tiền Giang là tỉnh có nhiều tiềm năng về du lịch. Hàng năm, lượng du khách đến Tiền Giang đều tăng. Trong năm 2009, lượng khách tham quan Tiền Giang vẫn đạt 866.400 lượt người. Thế mạnh của du lịch chủ yếu nhờ vào các di tích văn hóa lịch sử và sinh thái như di tích văn hóa Óc Eo, Gò Thành từ thế kỷ I đến thế kỷ VI sau công nguyên, các di tích lịch sử Trận Rạch Gầm – Xoài Mút, di tích Ấp Bắc, lũy Pháo Đài, và nhiều lăng mộ, đền chùa, nhà thờ như: Lăng Trương Định, Lăng Hoàng gia, Lăng Tứ Kiệt, chùa Vĩnh Tràng, chùa Bửu Lâm, chùa Sắc Tứ, chùa Linh Thứu, thiền viện Trúc Lâm Chánh Giác, nhà thờ chính tòa Mỹ Tho, nhà thờ Tin Lành Ấp Bắc, nhà thờ Thánh Giuse Lao Công, nhà thờ Nữ Vương Hòa Bình, nhà thờ Cái Bè,… các điểm du lịch sinh thái mới được khai thác như vườn cây ăn quả ở Cù lao Thới Sơn, Chợ nổi Cái Bè, Trại rắn Đồng Tâm, Khu bảo tồn sinh thái Đồng Tháp Mười, Biển Tân Thành, Giếng Nước Mỹ Tho, Bến Tắm Ngựa, Bờ kè sông Tiền, Quảng trường Mỹ Tho, ...",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Trà Vinh có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Trà Vinh.", "Những nơi đẹp ở Trà Vinh."],
+      "Answer": "Trà Vinh không chỉ thu hút khách du lịch bởi những ngôi chùa mang phong cách độc đáo mà còn hút khách bởi các thắng cảnh tuyệt vời: Chùa Hang, Ao Bà Om, Chùa Âng, Bảo tàng Văn hóa dân tộc Khmer, Chùa Khmer Vàm Ray, Chùa Cò, Biển Ba Động",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tuyên Quang có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Tuyên Quang.", "Những nơi đẹp ở Tuyên Quang."],
+      "Answer": "Danh lam, thắng cảnh: Hồ Na Hang, huyện Na Hang: Nằm trong khu bảo tồn thiên nhiên nên hồ với nhiều cảnh đẹp còn rất nguyên vẹn và hoang sơ, Quần thể hang động xã Yên Phú, huyện Hàm Yên, Động Song Long - xã Khuôn Hà, huyện Lâm Bình, Hang Phia Vài - xã Khuôn Hà, huyện Lâm Bình, Thác Mơ - Na Hang Cách thành phố Tuyên Quang 100 km, thác Mơ nằm giữa khu bảo tồn thiên nhiên Na Hang. Lối vào thác là con đường rải nhựa ngoằn ngoèo chạy dưới tán rừng nguyên sinh. Từ hồ nước trong xanh vời vợi trên đỉnh núi Pắc Ban, từng ngọn thác mềm mại, trắng xoá đổ xuống chân núi.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Vĩnh Long có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Vĩnh Long.", "Những nơi đẹp ở Vĩnh Long."],
+      "Answer": "Chùa Tây An, Cồn Phụng, Khu du lịch sinh thái Tràm Chim, Đầm Sen Vĩnh Long, Cồn Sơn. Ngoài ra, Vĩnh Long còn có nhiều di tích lịch sử, chùa miếu, và làng nghề đáng quan tâm khác. Du lịch tại Vĩnh Long sẽ giúp bạn trải nghiệm cuộc sống và văn hóa của người dân đồng bằng sông Cửu Long.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Vĩnh Phúc có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Vĩnh Phúc.", "Những nơi đẹp ở Vĩnh Phúc."],
+      "Answer": "Chùa Tùng Vân, Đình Thổ Tang, Đình Bích Chu, Đình Thủ Độ, Đình Cam Giá, Đền Phú Đa, Đình Hòa Loan, Cụm di tích thờ Lê Ngọc Chinh (đền Ngòi, đình Đông, đình Nam), Đền Đuông, Chùa Thượng Trưng, Địa điểm lưu niệm Chủ tịch Hồ Chí Minh, Chùa Hoa Dương, Đình - chùa Vĩnh Sơn, Đình Sông Kênh, Đình Tuân Lộ, đền thờ Lưỡng Quốc Tiến Sĩ Triệu Thái, Chiến khu Ngọc Thanh, Chùa Bảo Sơn, Đình Khả Do, Đình Cao Quang, Đền Ngô Miễn, Đình Đạm Xuyên, Đình Sen Hồ, Đền Trần Nguyên Hãn, Đền Đỗ Khắc Chung, Chùa Vĩnh Phúc, Đình Tây Hạ, Chùa Đông Lai, Đền Triệu Thái, Đình Ngõa, Đình Đình Chu, Đình Thạch Trục, Đình Tiên Lữ.",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Yên Bái có những danh lam thắng cảnh nào ?", "Những danh lam thắng cảnh ở Yên Bái.", "Những nơi đẹp ở Yên Bái."],
+      "Answer": "Đèo Hải Chai, Cầu Bà Xiu, Dốc Yên Ngựa, Thung lũng Hồng Ca (Trấn Yên), Ruộng bậc thang Mù Cang Chải, Hồ Thác Bà, Đền Tuần Quán, Cánh đồng Mường Lò, Thác Mơ",
+      "Type": "WHAT"
+    },
+    {
+      "Question": ["Tỉnh An Giang nằm ở đâu ?", "Khu vực của tỉnh An Giang ở đâu ?", "Vị trí của tỉnh An Giang."],
+      "Answer": "Tỉnh An Giang nằm về phía tây nam đồng bằng sông Cửu Long, cách Thành phố Hồ Chí Minh 187 km, có vị trí địa lý:Phía đông giáp tỉnh Đồng Tháp dài 1078 km, Phía tây giáp tỉnh Kiên Giang, Phía nam giáp thành phố Cần Thơ dài 44734 km, Phía bắc giáp tỉnh Kandal và tỉnh Takéo, Vương quốc Campuchia với đường biên giới dài gần 104 km.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bà Rịa - Vũng Tàu nằm ở đâu ?", "Khu vực của tỉnh Bà Rịa - Vũng Tàu ở đâu ?", "Vị trí của tỉnh Bà Rịa - Vũng Tàu."],
+      "Answer": "Tỉnh Bà Rịa - Vũng Tàu Phía bắc giáp tỉnh Đồng Nai, Phía tây giáp Thành phố Hồ Chí Minh, Phía đông giáp tỉnh Bình Thuận và Biển Đông, Phía nam giáp Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bạc Liêu nằm ở đâu ?", "Khu vực của tỉnh Bạc Liêu ở đâu ?", "Vị trí của tỉnh Bạc Liêu."],
+      "Answer": "Tỉnh Bạc Liêu nằm trên bán đảo Cà Mau, thuộc Đồng bằng sông Cửu Long, với diện tích đất tự nhiên là 2.669  km², chiếm gần 0,8% diện tích cả nước và đứng thứ 7 trong khu vực Đồng bằng sông Cửu Long, có vị trí địa lý:Phía bắc giáp với tỉnh Hậu Giang, Phía đông và đông bắc giáp với tỉnh Sóc Trăng, Phía tây nam giáp với tỉnh Cà Mau, Phía tây bắc giáp với tỉnh Kiên Giang, Phía đông nam giáp với Biển Đông với đường bờ biển dài 56 km.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bắc Giang nằm ở đâu ?", "Khu vực của tỉnh Bắc Giang ở đâu ?", "Vị trí của tỉnh Bắc Giang."],
+      "Answer": "Tỉnh Bắc Giang là một tỉnh thuộc vùng đông bắc Bắc Bộ, có vị trí địa lý:Phía đông giáp tỉnh Quảng Ninh, Phía bắc giáp tỉnh Lạng Sơn, Phía tây giáp tỉnh Thái Nguyên và thủ đô Hà Nội, Phía nam giáp tỉnh Bắc Ninh và tỉnh Hải Dương.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bắc Kạn nằm ở đâu ?", "Khu vực của tỉnh Bắc Kạn ở đâu ?", "Vị trí của tỉnh Bắc Kạn."],
+      "Answer": "Tỉnh Bắc Kạn là một tỉnh miền núi cao, địa hình bị chi phối bởi những dãy núi vòng cung quay lưng về phía đông xen lẫn với những thung lũng, có vị trí địa lý:Phía bắc giáp tỉnh Cao Bằng, Phía đông giáp tỉnh Lạng Sơn, Phía nam giáp tỉnh Thái Nguyên, Phía tây giáp tỉnh Tuyên Quang.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bắc Ninh nằm ở đâu ?", "Khu vực của tỉnh Bắc Ninh ở đâu ?", "Vị trí của tỉnh Bắc Ninh."],
+      "Answer": "Tỉnh Bắc Ninh tiếp giáp với vùng trung du Bắc Bộ tại tỉnh Bắc Giang. Trung tâm hành chính của tỉnh là thành phố Bắc Ninh, nằm cách trung tâm thủ đô Hà Nội khoảng 30 km về phía đông bắc, có vị trí địa lý:Phía đông giáp tỉnh Hải Dương, Phía tây giáp thủ đô Hà Nội, Phía nam giáp tỉnh Hưng Yên, Phía bắc giáp tỉnh Bắc Giang.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bến Tre nằm ở đâu ?", "Khu vực của tỉnh Bến Tre ở đâu ?", "Vị trí của tỉnh Bến Tre."],
+      "Answer": "Tỉnh Bến Tre có hình rẻ quạt, đầu nhọn nằm ở thượng nguồn, với các hệ thống kênh rạch chằng chịt. Phía đông giáp Biển Đông với chiều dài bờ biển 65 km, Phía tây và phía nam giáp tỉnh Vĩnh Long và tỉnh Trà Vinh có ranh giới là sông Cổ Chiên, Phía bắc giáp Tiền Giang có ranh giới là sông Tiền.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bình Dương nằm ở đâu ?", "Khu vực của tỉnh Bình Dương ở đâu ?", "Vị trí của tỉnh Bình Dương."],
+      "Answer": "Tỉnh Bình Dương thuộc miền Đông Nam Bộ:Phía Bắc giáp tỉnh Bình Phước, Phía Nam giáp Thành phố Hồ Chí Minh, Phía Đông giáp tỉnh Đồng Nai, Phía Tây giáp tỉnh Tây Ninh và Thành phố Hồ Chí Minh",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bình Định nằm ở đâu ?", "Khu vực của tỉnh Bình Định ở đâu ?", "Vị trí của tỉnh Bình Định."],
+      "Answer": "Tỉnh Bình Định là tỉnh duyên hải miền Trung Việt Nam. Phía Bắc giáp tỉnh Quảng Ngãi, Phía Nam giáp tỉnh Phú Yên, Phía Tây giáp tỉnh Gia Lai, Phía Đông giáp Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bình Phước nằm ở đâu ?", "Khu vực của tỉnh Bình Phước ở đâu ?", "Vị trí của tỉnh Bình Phước."],
+      "Answer": "Tỉnh Bình Phước là một tỉnh nằm ở phía bắc của vùng Đông Nam Bộ, có vị trí địa lý:Phía đông giáp tỉnh Lâm Đồng và tỉnh Đắk Nông, Phía tây giáp tỉnh Tây Ninh, Phía nam giáp tỉnh Bình Dương và tỉnh Đồng Nai, Phía bắc và tây bắc giáp Vương quốc Campuchia.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Bình Thuận nằm ở đâu ?", "Khu vực của tỉnh Bình Thuận ở đâu ?", "Vị trí của tỉnh Bình Thuận."],
+      "Answer": "Tỉnh Bình Thuận là tỉnh có dãy đất bắt đầu chuyển hướng từ Nam sang Tây của phần còn lại của Việt Nam trên bản đồ hình chữ S, phía Bắc của tỉnh Bình Thuận giáp với tỉnh Lâm Đồng, phía Đông Bắc giáp tỉnh Ninh Thuận, phía Tây giáp tỉnh Đồng Nai, và phía Tây Nam giáp Bà Rịa-Vũng Tàu, ở phía Đông và Nam giáp Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Cà Mau nằm ở đâu ?", "Khu vực của tỉnh Cà Mau ở đâu ?", "Vị trí của tỉnh Cà Mau."],
+      "Answer": "Tỉnh Cà Mau là mảnh đất tận cùng của tổ quốc với 3 mặt tiếp giáp với biển, cách thành phố Cần Thơ 180 km, cách Thành phố Hồ Chí Minh 350 km, có vị trí địa lý:Phía đông giáp Biển Đông với đường bờ biển 107 km, Phía tây và phía nam giáp Vịnh Thái Lan với đường bờ biển 147 km, Phía bắc giáp tỉnh Bạc Liêu và tỉnh Kiên Giang.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Cao Bằng nằm ở đâu ?", "Khu vực của tỉnh Cao Bằng ở đâu ?", "Vị trí của tỉnh Cao Bằng."],
+      "Answer": "Tỉnh Cao Bằng nằm ở phía đông bắc Việt Nam, có vị trí địa lý:Phía bắc và đông bắc giáp với khu tự trị dân tộc Choang Quảng Tây (Trung Quốc) với đường biên giới dài 333,125 km, Phía tây giáp tỉnh Hà Giang, Phía tây nam giáp tỉnh Tuyên Quang, Phía nam giáp các tỉnh Bắc Kạn và Lạng Sơn.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Cần Thơ nằm ở đâu ?", "Khu vực của tỉnh Cần Thơ ở đâu ?", "Vị trí của tỉnh Cần Thơ."],
+      "Answer": "Tỉnh Cần Thơ nằm ở vùng hạ lưu của sông Cửu Long và ở vị trí trung tâm đồng bằng sông Cửu Long, có vị trí địa lý:Phía đông giáp tỉnh Đồng Tháp và tỉnh Vĩnh Long, Phía tây giáp tỉnh Kiên Giang, Phía nam giáp tỉnh Hậu Giang, Phía bắc giáp tỉnh An Giang.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Đà Nẵng nằm ở đâu ?", "Khu vực của tỉnh Đà Nẵng ở đâu ?", "Vị trí của tỉnh Đà Nẵng."],
+      "Answer": "Tỉnh Đà Nẵng nằm ở trung độ của Việt Nam, cách thủ đô Hà Nội 766 km về phía Bắc và cách Thành phố Hồ Chí Minh 961 km về phía Nam theo Quốc lộ 1, Phía Bắc giáp tỉnh Thừa Thiên Huế, Phía Tây và Nam giáp tỉnh Quảng Nam, Phía Đông giáp biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Đắk Lắk nằm ở đâu ?", "Khu vực của tỉnh Đắk Lắk ở đâu ?", "Vị trí của tỉnh Đắk Lắk."],
+      "Answer": "Tỉnh Đắk Lắk nằm ở trung tâm vùng Tây Nguyên, đầu nguồn của hệ thống sông Sêrêpôk và một phần của sông Ba,Tỉnh Đắk Lắk có vị trí địa lý:Phía bắc giáp tỉnh Gia Lai, Phía đông giáp các tỉnh Phú Yên, Khánh Hoà, Phía nam giáp các tỉnh Lâm Đồng, Đắk Nông, Phía tây giáp tỉnh Mondulkiri của Campuchia với đường biên giới dài 193 km.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Đắk Nông nằm ở đâu ?", "Khu vực của tỉnh Đắk Nông ở đâu ?", "Vị trí của tỉnh Đắk Nông."],
+      "Answer": "Tỉnh Đắk Nông nằm ở cửa ngõ phía tây nam của Tây Nguyên, có vị trí địa lý:Phía đông và phía bắc giáp tỉnh Đắk Lắk, Phía tây giáp tỉnh Bình Phước và tỉnh Mondulkiri, Vương quốc Campuchia với đường biên giới dài khoảng 141 km, Phía nam và đông nam giáp tỉnh Lâm Đồng.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Điện Biên nằm ở đâu ?", "Khu vực của tỉnh Điện Biên ở đâu ?", "Vị trí của tỉnh Điện Biên."],
+      "Answer": "Tỉnh Điện Biên nằm ở rìa phía Tây khu vực Tây Bắc Việt Nam, tỉnh nằm cách thủ đô Hà Nội 504 km về phía Tây, giáp tỉnh Sơn La về phía Đông và Đông Bắc, giáp tỉnh Lai Châu về phía Bắc, giáp tỉnh Vân Nam của Trung Quốc về phía Tây Bắc, giáp các tỉnh Phôngsali và Luang Prabang của Lào về phía Tây và Tây Nam.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Đồng Nai nằm ở đâu ?", "Khu vực của tỉnh Đồng Nai ở đâu ?", "Vị trí của tỉnh Đồng Nai."],
+      "Answer": "Tỉnh Đồng Nai nằm trong vùng kinh tế trọng điểm Nam bộ, có vị trí địa lý:Phía đông giáp tỉnh Bình Thuận và tỉnh Lâm Đồng, Phía tây giáp Thành phố Hồ Chí Minh và tỉnh Bình Dương, Phía nam giáp tỉnh Bà Rịa – Vũng Tàu, Phía bắc giáp tỉnh Bình Phước.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Đồng Tháp nằm ở đâu ?", "Khu vực của tỉnh Đồng Tháp ở đâu ?", "Vị trí của tỉnh Đồng Tháp."],
+      "Answer": "Tỉnh Đồng Tháp là một trong 13 tỉnh của vùng Đồng bằng sông Cửu Long và là tỉnh duy nhất có địa bàn ở cả hai bờ sông Tiền, tỉnh có vị trí địa lý:Phía đông giáp với tỉnh Long An và tỉnh Tiền Giang, Phía tây giáp tỉnh An Giang, Phía nam giáp với tỉnh Vĩnh Long và thành phố Cần Thơ, Phía bắc giáp tỉnh Prey Veng của Campuchia và tỉnh Long An.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Gia Lai nằm ở đâu ?", "Khu vực của tỉnh Gia Lai ở đâu ?", "Vị trí của tỉnh Gia Lai."],
+      "Answer": "Tỉnh Gia Lai là một tỉnh vùng cao nằm ở phía bắc Tây Nguyên trên độ cao trung bình 700 - 800 mét so với mực nước biển, Phía đông bắc giáp 1 chút với Quảng Ngãi, Phía đông giáp với tỉnh Bình Định, Phía đông nam giáp với Phú Yên, Phía tây giáp tỉnh Ratanakiri thuộc Campuchia,  Phía nam giáp tỉnh Đắk Lắk, và phía bắc của tỉnh giáp tỉnh Kon Tum.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Hà Giang nằm ở đâu ?", "Khu vực của tỉnh Hà Giang ở đâu ?", "Vị trí của tỉnh Hà Giang."],
+      "Answer": "Tỉnh Hà Giang nằm ở cực bắc Việt Nam, có vị trí địa lý:Phía đông giáp tỉnh Cao Bằng, Phía tây giáp tỉnh Lào Cai, Phía nam giáp tỉnh Tuyên Quang và tỉnh Yên Bái, Phía bắc giáp châu tự trị dân tộc Choang và Miêu Văn Sơn thuộc tỉnh Vân Nam và địa cấp thị Bách Sắc thuộc khu tự trị dân tộc Choang Quảng Tây, Cộng hòa Nhân dân Trung Hoa ",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Hà Nam nằm ở đâu ?", "Khu vực của tỉnh Hà Nam ở đâu ?", "Vị trí của tỉnh Hà Nam."],
+      "Answer": "Tỉnh Hà Nam là một tỉnh thuộc đồng bằng sông Hồng, nằm trong vùng thủ đô, có vị trí địa lý:Phía bắc giáp thủ đô Hà Nội, Phía đông giáp tỉnh Hưng Yên và tỉnh Thái Bình, Phía nam giáp tỉnh Nam Định và tỉnh Ninh Bình, Phía tây giáp tỉnh Hòa Bình.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Thủ Đô Hà Nội nằm ở đâu ?", "Khu vực của Thủ Đô Hà Nội ở đâu ?", "Vị trí của Thủ Đô Hà Nội."],
+      "Answer": "Thủ đô Hà Nội nằm về phía tây bắc của trung tâm vùng đồng bằng châu thổ sông Hồng, tiếp giáp với 8 tỉnh là Thái Nguyên, Vĩnh Phúc ở phía Bắc, Hà Nam, Hòa Bình phía Nam, Bắc Giang, Bắc Ninh và Hưng Yên phía Đông, Hòa Bình cùng Phú Thọ phía Tây.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Hà Tĩnh nằm ở đâu ?", "Khu vực của tỉnh Hà Tĩnh ở đâu ?", "Vị trí của tỉnh Hà Tĩnh."],
+      "Answer": "Tỉnh Hà Tĩnh nằm cách thủ đô Hà Nội 345 km về phía nam. Có vị trí địa lý:Phía bắc giáp tỉnh Nghệ An, phía nam giáp tỉnh Quảng Bình, phía tây giáp hai tỉnh Borikhamxay và Khammouan của Lào, Phía Đông giáp Biển Đông (Vịnh Bắc Bộ).",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Hải Dương nằm ở đâu ?", "Khu vực của tỉnh Hải Dương ở đâu ?", "Vị trí của tỉnh Hải Dương."],
+      "Answer": "Tỉnh Hải Dương là một tỉnh thuộc Đồng bằng sông Hồng, có vị trí địa lý:Phía Bắc giáp tỉnh Bắc Giang, Phía Đông giáp tỉnh Quảng Ninh và thành phố Hải Phòng, Phía Tây giáp tỉnh Bắc Ninh và tỉnh Hưng Yên, Phía Nam giáp tỉnh Thái Bình.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Hải Phòng nằm ở đâu ?", "Khu vực của tỉnh Hải Phòng ở đâu ?", "Vị trí của tỉnh Hải Phòng."],
+      "Answer": "Tỉnh Hải Phòng là một thành phố ven biển thuộc vùng Đồng bằng sông Hồng, có vị trí địa lý:Phía bắc giáp tỉnh Quảng Ninh, Phía tây giáp tỉnh Hải Dương, Phía nam giáp tỉnh Thái Bình, Phía đông giáp Vịnh Bắc Bộ thuộc Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Hậu Giang nằm ở đâu ?", "Khu vực của tỉnh Hậu Giang ở đâu ?", "Vị trí của tỉnh Hậu Giang."],
+      "Answer": "Tỉnh Hậu Giang là tỉnh thuộc khu vực nội địa của đồng bằng sông Cửu Long, có vị trí địa lý:Phía đông giáp tỉnh Sóc Trăng, Phía tây giáp tỉnh Kiên Giang, Phía nam giáp tỉnh Bạc Liêu, Phía bắc giáp thành phố Cần Thơ và tỉnh Vĩnh Long.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Hòa Bình nằm ở đâu ?", "Khu vực của tỉnh Hòa Bình ở đâu ?", "Vị trí của tỉnh Hòa Bình."],
+      "Answer": "Tỉnh Hòa Bình nằm giáp ranh giữa ba khu vực: Tây Bắc Bộ, đồng bằng sông Hồng và Bắc Trung Bộ của Việt Nam, có vị trí địa lý:Phía bắc giáp tỉnh Phú Thọ, Phía đông giáp tỉnh Hà Nam, tỉnh Ninh Bình và thủ đô Hà Nội, Phía tây giáp tỉnh Sơn La, Phía nam giáp tỉnh Thanh Hóa.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Thành Phố Hồ Chí Minh nằm ở đâu ?", "Khu vực của tỉnh Thành Phố Hồ Chí Minh ở đâu ?", "Vị trí của tỉnh Thành Phố Hồ Chí Minh."],
+      "Answer": "Thành phố Hồ Chí Minh nằm ở phía Nam, thuộc miền Đông Nam Bộ, Phía bắc giáp tỉnh Bình Dương, Phía tây giáp tỉnh Tây Ninh và tỉnh Long An, Phía đông giáp tỉnh Đồng Nai và Bà Rịa – Vũng Tàu, Phía nam giáp Biển Đông và tỉnh Tiền Giang.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Hưng Yên nằm ở đâu ?", "Khu vực của tỉnh Hưng Yên ở đâu ?", "Vị trí của tỉnh Hưng Yên."],
+      "Answer": "Tỉnh Hưng Yên nằm cách trung tâm thủ đô Hà Nội khoảng 54 km về phía đông nam, cách thành phố Hải Dương khoảng 50 km về phía tây nam, cách trung tâm thành phố Hải Phòng khoảng 93 km, có vị trí địa lý:Phía đông giáp tỉnh Hải Dương, Phía tây giáp thủ đô Hà Nội và tỉnh Hà Nam, Phía nam giáp tỉnh Thái Bình, Phía bắc giáp tỉnh Bắc Ninh.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Khánh Hòa nằm ở đâu ?", "Khu vực của tỉnh Khánh Hòa ở đâu ?", "Vị trí của tỉnh Khánh Hòa."],
+      "Answer": "Tỉnh Khánh Hòa nằm ở khu vực duyên hải Nam Trung Bộ của Việt Nam, có vị trí địa lý:Phía Bắc giáp tỉnh Phú Yên, Phía Tây giáp tỉnh Đắk Lắk, Phía Nam giáp tỉnh Ninh Thuận, Phía Tây Nam giáp tỉnh Lâm Đồng, Phía Đông giáp Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Kiên Giang nằm ở đâu ?", "Khu vực của tỉnh Kiên Giang ở đâu ?", "Vị trí của tỉnh Kiên Giang."],
+      "Answer": "Tỉnh Kiên Giang nằm tận cùng phía Tây Nam của Việt Nam, có vị trí địa lý:Phía bắc giáp tỉnh Kampot của Campuchia, đường biên giới dài 56,8 km, Phía nam giáp tỉnh Cà Mau, Phía tây giáp vịnh Thái Lan với đường bờ biển dài 200 km, Phía đông giáp tỉnh An Giang, tỉnh Hậu Giang, tỉnh Bạc Liêu và thành phố Cần Thơ.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Kon Tum nằm ở đâu ?", "Khu vực của tỉnh Kon Tum ở đâu ?", "Vị trí của tỉnh Kon Tum."],
+      "Answer": "Tỉnh Kon Tum nằm ở ngã ba Đông Dương, phần lớn nằm ở phía Tây dãy Trường Sơn, có vị trí địa lý:Phía bắc giáp tỉnh Quảng Nam, Phía nam giáp tỉnh Gia Lai, Phía đông giáp tỉnh Quảng Ngãi, Phía tây giáp các tỉnh Sekong, Attapeu của Lào và Ratanakiri của Campuchia.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Lai Châu nằm ở đâu ?", "Khu vực của tỉnh Lai Châu ở đâu ?", "Vị trí của tỉnh Lai Châu."],
+      "Answer": "Tỉnh Lai Châu trung tâm hành chính của tỉnh là Thành phố Lai Châu, cách Thủ đô Hà Nội 397 km, Phía bắc Lai Châu giáp tỉnh Vân Nam, Trung Quốc, Phía đông giáp các tỉnh Lào Cai, Yên Bái, Sơn La, Phía tây và phía nam giáp tỉnh Điện Biên.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Lạng Sơn nằm ở đâu ?", "Khu vực của tỉnh Lạng Sơn ở đâu ?", "Vị trí của tỉnh Lạng Sơn."],
+      "Answer": "Tỉnh Lạng Sơn Phía bắc giáp tỉnh Cao Bằng, Phía đông giáp tỉnh Quảng Ninh và thành phố Sùng Tả (Quảng Tây, Trung Quốc), Phía nam giáp tỉnh Bắc Giang, Phía tây giáp tỉnh Bắc Kạn và tỉnh Thái Nguyên.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Lào Cai nằm ở đâu ?", "Khu vực của tỉnh Lào Cai ở đâu ?", "Vị trí của tỉnh Lào Cai."],
+      "Answer": "Tỉnh Lào Cai giáp ranh giữa vùng Tây Bắc và vùng Đông Bắc, có vị trí địa lý:Phía đông giáp tỉnh Hà Giang, Phía tây giáp tỉnh Lai Châu, Phía nam giáp tỉnh Yên Bái, Phía bắc giáp tỉnh Vân Nam của Trung Quốc với đường biên giới dài khoảng 182 km.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Lâm Đồng nằm ở đâu ?", "Khu vực của tỉnh Lâm Đồng ở đâu ?", "Vị trí của tỉnh Lâm Đồng."],
+      "Answer": "Tỉnh Lâm Đồng thuộc Nam Tây Nguyên, Phía đông bắc giáp với tỉnh Khánh Hòa, phía đông giáp với tỉnh Ninh Thuận, phía tây giáp Đắk Nông, phía tây nam giáp hai tỉnh Đồng Nai và Bình Phước, phía nam và đông nam giáp tỉnh Bình Thuận, phía bắc giáp tỉnh Đắk Lắk.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Long An nằm ở đâu ?", "Khu vực của tỉnh Long An ở đâu ?", "Vị trí của tỉnh Long An."],
+      "Answer": "Tỉnh Long An thuộc khu vực đồng bằng sông Cửu Long,Tỉnh Long An thuộc khu vực đồng bằng sông Cửu Long, có vị trí địa lý:Phía đông giáp Thành phố Hồ Chí Minh, Phía tây giáp tỉnh Đồng Tháp, Phía nam giáp tỉnh Tiền Giang, Phía bắc giáp tỉnh Tây Ninh và Vương quốc Campuchia.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Nam Định nằm ở đâu ?", "Khu vực của tỉnh Nam Định ở đâu ?", "Vị trí của tỉnh Nam Định."],
+      "Answer": "Tỉnh Nam Định cách trung tâm thủ đô Hà Nội khoảng 90 km về phía tây bắc, cách trung tâm thành phố Hải Phòng khoảng 90 km về phía đông bắc, có vị trí địa lý:Phía bắc giáp tỉnh Hà Nam, Phía tây giáp tỉnh Ninh Bình, Phía đông và đông bắc giáp tỉnh Thái Bình, Phía nam giáp Vịnh Bắc Bộ.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Nghệ An nằm ở đâu ?", "Khu vực của tỉnh Nghệ An ở đâu ?", "Vị trí của tỉnh Nghệ An."],
+      "Answer": "Tỉnh Nghệ An thuộc vùng Bắc Trung Bộ, có vị trí địa lý:Phía đông giáp Biển Đông, Phía tây giáp tỉnh Xiêng Khoảng, Lào, Phía tây nam giáp tỉnh Borikhamxay, Lào, Phía tây bắc giáp tỉnh Hủa Phăn, Lào, Phía nam giáp tỉnh Hà Tĩnh, Phía bắc giáp tỉnh Thanh Hóa.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Ninh Bình nằm ở đâu ?", "Khu vực của tỉnh Ninh Bình ở đâu ?", "Vị trí của tỉnh Ninh Bình."],
+      "Answer": "Tỉnh Ninh Bình nằm ở vị trí ranh giới 3 khu vực địa lý: Tây Bắc, châu thổ sông Hồng và Bắc Trung Bộ, có vị trí địa lý:Phía Bắc giáp tỉnh Hà Nam, Phía Đông và Đông Bắc giáp tỉnh Nam Định qua sông Đáy, Phía Tây Bắc giáp tỉnh Hòa Bình, Phía Nam giáp tỉnh Thanh Hóa và Biển Đông (Vịnh Bắc Bộ) với đường bờ biển dài 18 km (Ninh Bình là tỉnh có bờ biển ngắn nhất Việt Nam).",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Ninh Thuận nằm ở đâu ?", "Khu vực của tỉnh Ninh Thuận ở đâu ?", "Vị trí của tỉnh Ninh Thuận."],
+      "Answer": "Tỉnh Ninh Thuận thuộc vùng Duyên hải Nam Trung Bộ, có vị trí địa lý:Phía bắc giáp tỉnh Khánh Hòa, Phía nam giáp tỉnh Bình Thuận, Phía tây giáp tỉnh Lâm Đồng, Phía đông giáp Biển Đông. ",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Phú Thọ nằm ở đâu ?", "Khu vực của tỉnh Phú Thọ ở đâu ?", "Vị trí của tỉnh Phú Thọ."],
+      "Answer": "Tỉnh Phú Thọ là một tỉnh thuộc vùng Đông Bắc Bộ, Việt Nam, có vị trí địa lý:Phía đông giáp tỉnh Vĩnh Phúc và thủ đô Hà Nội, Phía tây giáp tỉnh Sơn La và tỉnh Yên Bái, Phía nam giáp tỉnh Hòa Bình, Phía bắc giáp tỉnh Tuyên Quang.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Phú Yên nằm ở đâu ?", "Khu vực của tỉnh Phú Yên ở đâu ?", "Vị trí của tỉnh Phú Yên."],
+      "Answer": "Tỉnh Phú Yên phía Bắc giáp tỉnh Bình Định, phía Nam giáp Khánh Hòa, phía Tây giáp Đắk Lắk và Gia Lai, phía Đông giáp Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Quảng Bình nằm ở đâu ?", "Khu vực của tỉnh Quảng Bình ở đâu ?", "Vị trí của tỉnh Quảng Bình."],
+      "Answer": "Tỉnh Quảng Bình cách thủ đô Hà Nội 500 km về phía Nam, cách thành phố Đà Nẵng 267 km về phía Nam theo đường Quốc lộ 1. Có vị trí địa lý:Phía bắc giáp tỉnh Hà Tĩnh, Phía nam giáp tỉnh Quảng Trị, Phía tây giáp tỉnh Khammuane, tỉnh Savannakhet, Lào với đường biên giới 201,87 km, Phía đông giáp Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Quảng Nam nằm ở đâu ?", "Khu vực của tỉnh Quảng Nam ở đâu ?", "Vị trí của tỉnh Quảng Nam."],
+      "Answer": "Tỉnh Quảng Nam thuộc khu vực Nam Trung Bộ của miền Trung, có vị trí địa lý:Phía tây bắc giáp tỉnh Thừa Thiên Huế, Phía đông bắc thành phố Đà Nẵng, Phía đông nam giáp tỉnh Quảng Ngãi, Phía tây nam giáp tỉnh Kon Tum, Phía tây giáp tỉnh Sekong của nước Lào, Phía đông giáp Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Quảng Ngãi nằm ở đâu ?", "Khu vực của tỉnh Quảng Ngãi ở đâu ?", "Vị trí của tỉnh Quảng Ngãi."],
+      "Answer": "Tỉnh Quảng Ngãi tựa vào dãy núi Trường Sơn và có vị trí địa lý:Phía đông giáp Biển Đông, Phía bắc giáp tỉnh Quảng Nam, Phía nam giáp tỉnh Bình Định, Phía tây giáp tỉnh Kon Tum, Phía tây nam giáp tỉnh Gia Lai.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Quảng Ninh nằm ở đâu ?", "Khu vực của tỉnh Quảng Ninh ở đâu ?", "Vị trí của tỉnh Quảng Ninh."],
+      "Answer": "Tỉnh Quảng Ninh có vị trí ở địa đầu đông bắc Việt Nam, lãnh thổ trải theo hướng đông bắc - tây nam. Quảng Ninh nằm cách thủ đô Hà Nội 125 km về phía Đông Bắc, Quảng Ninh tiếp giáp:Phía bắc giáp Khu tự trị dân tộc Choang Quảng Tây, Trung Quốc, Phía đông và nam giáp Vịnh Bắc Bộ, Phía tây nam giáp tỉnh Hải Dương và thành phố Hải Phòng, Phía tây bắc giáp tỉnh Bắc Giang và tỉnh Lạng Sơn",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Quảng Trị nằm ở đâu ?", "Khu vực của tỉnh Quảng Trị ở đâu ?", "Vị trí của tỉnh Quảng Trị."],
+      "Answer": "Tỉnh Quảng Trị là một tỉnh nằm ở dải đất miền Trung Việt Nam, có vị trí địa lý:Phía bắc giáp tỉnh Quảng Bình, Phía nam giáp tỉnh Thừa Thiên Huế, Phía tây giáp 2 tỉnh Savannakhet và Salavan của Cộng hòa Dân chủ Nhân dân Lào, Phía Đông giáp biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Sóc Trăng nằm ở đâu ?", "Khu vực của tỉnh Sóc Trăng ở đâu ?", "Vị trí của tỉnh Sóc Trăng."],
+      "Answer": "Tỉnh Sóc Trăng nằm ở cửa Nam sông Hậu, có vị trí địa lý:Phía đông và đông nam giáp Biển Đông, Phía đông bắc giáp tỉnh Trà Vinh và tỉnh Vĩnh Long, Phía tây nam giáp tỉnh Bạc Liêu, Phía bắc và tây bắc giáp tỉnh Hậu Giang. ",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Sơn La nằm ở đâu ?", "Khu vực của tỉnh Sơn La ở đâu ?", "Vị trí của tỉnh Sơn La."],
+      "Answer": "Tỉnh Sơn La nằm cách trung tâm thủ đô Hà Nội khoảng 302 km, có vị trí địa lý:Phía bắc giáp tỉnh Yên Bái và tỉnh Lai Châu, Phía đông giáp tỉnh Phú Thọ và tỉnh Hoà Bình, Phía tây giáp tỉnh Điện Biên và tỉnh Luangprabang (Lào), Phía nam giáp với tỉnh Thanh Hóa và tỉnh Huaphanh (Lào).",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Tây Ninh nằm ở đâu ?", "Khu vực của tỉnh Tây Ninh ở đâu ?", "Vị trí của tỉnh Tây Ninh."],
+      "Answer": "Tỉnh Tây Ninh nối cao nguyên Nam Trung Bộ với đồng bằng sông Cửu Long, có vị trí địa lý:Phía đông giáp tỉnh Bình Phước, tỉnh Bình Dương và Thành phố Hồ Chí Minh, Phía tây và phía bắc giáp Vương quốc Campuchia, Phía nam giáp tỉnh Long An.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Thái Bình nằm ở đâu ?", "Khu vực của tỉnh Thái Bình ở đâu ?", "Vị trí của tỉnh Thái Bình."],
+      "Answer": "Tỉnh Thái Bình cách trung tâm thủ đô Hà Nội khoảng 100 km về phía đông nam, cách trung tâm thành phố Hải Phòng khoảng 75 km về phía tây nam, vị trí tiếp giáp tỉnh Thái Bình:Phía Bắc giáp tỉnh Hải Dương, tỉnh Hưng Yên và thành phố Hải Phòng, Phía Tây giáp tỉnh Hà Nam, Phía Nam giáp tỉnh Nam Định, Phía Đông giáp vịnh Bắc Bộ và Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Thái Nguyên nằm ở đâu ?", "Khu vực của tỉnh Thái Nguyên ở đâu ?", "Vị trí của tỉnh Thái Nguyên."],
+      "Answer": "Tỉnh Thái Nguyên cách trung tâm thủ đô Hà Nội khoảng 75 km, cách trung tâm thành phố Hải Phòng khoảng 200 km, cách biên giới Việt Nam - Trung Quốc khoảng 200 km, có vị trí địa lý:Phía đông giáp tỉnh Lạng Sơn và tỉnh Bắc Giang, Phía tây giáp tỉnh Vĩnh Phúc và tỉnh Tuyên Quang, Phía nam giáp thủ đô Hà Nội, Phía bắc giáp tỉnh Bắc Kạn.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Thanh Hóa nằm ở đâu ?", "Khu vực của tỉnh Thanh Hóa ở đâu ?", "Vị trí của tỉnh Thanh Hóa."],
+      "Answer": "Tỉnh Thanh Hóa Phía Bắc giáp tỉnh Sơn La, tỉnh Hòa Bình và tỉnh Ninh Bình, Phía Nam giáp tỉnh Nghệ An, Phía Tây giáp tỉnh Hủa Phăn của Lào, Phía Đông Thanh Hóa mở ra phần giữa của vịnh Bắc Bộ thuộc Biển Đông.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Thừa Thiên Huế nằm ở đâu ?", "Khu vực của tỉnh Thừa Thiên Huế ở đâu ?", "Vị trí của tỉnh Thừa Thiên Huế."],
+      "Answer": "Tỉnh Thừa Thiên Huế nằm ở dải đất ven biển miền Trung Việt Nam, có vị trí địa lý:Phía bắc giáp tỉnh Quảng Trị, Phía đông giáp biển Đông, Phía tây giáp tỉnh Saravane của CHDCND Lào, Phía nam giáp tỉnh Quảng Nam và thành phố Đà Nẵng.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Tiền Giang nằm ở đâu ?", "Khu vực của tỉnh Tiền Giang ở đâu ?", "Vị trí của tỉnh Tiền Giang."],
+      "Answer": "Tỉnh Tiền Giang  có vị trí địa lý:Phía đông giáp Thành phố Hồ Chí Minh và Biển Đông, Phía tây giáp tỉnh Đồng Tháp, Phía nam giáp tỉnh Bến Tre và tỉnh Vĩnh Long, Phía bắc giáp tỉnh Long An. ",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Trà Vinh nằm ở đâu ?", "Khu vực của tỉnh Trà Vinh ở đâu ?", "Vị trí của tỉnh Trà Vinh."],
+      "Answer": "Tỉnh Trà Vinh là một tỉnh thuộc đồng bằng sông Cửu Long, có vị trí địa lý:Phía Đông giáp Biển Đông với 65 km bờ biển, Phía Tây giáp Vĩnh Long, Phía Nam giáp Sóc Trăng với ranh giới là sông Hậu, Phía Bắc giáp Bến Tre với ranh giới là sông Cổ Chiên.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Tuyên Quang nằm ở đâu ?", "Khu vực của tỉnh Tuyên Quang ở đâu ?", "Vị trí của tỉnh Tuyên Quang."],
+      "Answer": "Tỉnh Tuyên Quang phía đông giáp tỉnh Thái Nguyên và tỉnh Bắc Kạn, Phía tây giáp tỉnh Phú Thọ và tỉnh Yên Bái, Phía nam giáp tỉnh Vĩnh Phúc, Phía bắc giáp tỉnh Hà Giang và tỉnh Cao Bằng.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Vĩnh Long nằm ở đâu ?", "Khu vực của tỉnh Vĩnh Long ở đâu ?", "Vị trí của tỉnh Vĩnh Long."],
+      "Answer": "Tỉnh Vĩnh Long nằm giữa hai nhánh sông chính của sông Cửu Long là sông Tiền và sông Hậu, nằm ở vị trí trung tâm của đồng bằng châu thổ hạ lưu sông Cửu Long:Phía đông giáp Bến Tre, Phía đông nam giáp Trà Vinh, Phía Tây giáp Cần Thơ, Phía tây bắc giáp Đồng Tháp, Phía đông bắc giáp Tiền Giang, Phía tây nam giáp Hậu Giang và Sóc Trăng.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Vĩnh Phúc nằm ở đâu ?", "Khu vực của tỉnh Vĩnh Phúc ở đâu ?", "Vị trí của tỉnh Vĩnh Phúc."],
+      "Answer": "Tỉnh Vĩnh Phúc cách trung tâm thủ đô Hà Nội khoảng 55 km, cách thành phố Việt Trì khoảng 30 km, cách Sân bay quốc tế Nội Bài khoảng 25 km, có vị trí địa lý:Phía đông giáp tỉnh Thái Nguyên, Phía tây giáp tỉnh Phú Thọ, Phía nam giáp thủ đô Hà Nội, Phía bắc giáp tỉnh Tuyên Quang.",
+      "Type": "WHERE"
+    },
+    {
+      "Question": ["Tỉnh Yên Bái nằm ở đâu ?", "Khu vực của tỉnh Yên Bái ở đâu ?", "Vị trí của tỉnh Yên Bái."],
+      "Answer": "Tỉnh Yên Bái nằm ở vùng Tây Bắc tiếp giáp với Đông Bắc, có vị trí địa lý:Phía đông giáp tỉnh Tuyên Quang, phía đông nam giáp tỉnh Phú Thọ, Phía tây bắc giáp tỉnh Lai Châu, Phía tây và phía nam giáp tỉnh Sơn La, Phía đông bắc giáp tỉnh Hà Giang và phía bắc giáp tỉnh Lào Cai.",
+      "Type": "WHERE"
+    }
+  ]
+}
