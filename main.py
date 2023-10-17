@@ -43,7 +43,7 @@ class text(BaseModel):
     Text: str
 
 
-@app.post('/')
+@app.post('/fetch')
 async def label_location(item: text):
     
     question_input = []
