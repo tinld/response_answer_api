@@ -53,7 +53,6 @@ async def label_location(item: text):
     predict_x = loaded_model.predict(padded_new_question_sequences)
     predicted_answer_indices = np.argmax(predict_x, axis=1)
 
-
     predicted_answers = [list(answer_indices.keys())[list(answer_indices.values()).index(index)] for index in predicted_answer_indices]
     
     for question, answer in zip(question_input, predicted_answers):
