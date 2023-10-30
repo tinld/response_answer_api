@@ -939,6 +939,156 @@
       "Question": ["Tỉnh Yên Bái nằm ở đâu ?", "Khu vực của tỉnh Yên Bái ở đâu ?", "Vị trí của tỉnh Yên Bái."],
       "Answer": "Tỉnh Yên Bái nằm ở vùng Tây Bắc tiếp giáp với Đông Bắc, có vị trí địa lý:Phía đông giáp tỉnh Tuyên Quang, phía đông nam giáp tỉnh Phú Thọ, Phía tây bắc giáp tỉnh Lai Châu, Phía tây và phía nam giáp tỉnh Sơn La, Phía đông bắc giáp tỉnh Hà Giang và phía bắc giáp tỉnh Lào Cai.",
       "Type": "WHERE"
+    },
+    {
+        "Question":["Việt Nam có bao nhiêu di sản Thế giới ?"],
+        "Answer":"Tính đến tháng 5/2023, Việt Nam có 8 di sản Thế giới được UNESCO công nhận.",
+        "Type":"HOW"
+    },
+    {
+        "Question":["Việt Nam có bao nhiêu Di sản Văn hóa Phi vật thể ?"],
+        "Answer":"Tính đến tháng 5/2023, Việt Nam có 15 Di sản Văn hóa Phi vật thể.",
+        "Type":"HOW"
+    },
+    {
+        "Question":["Việt Nam có bao nhiêu di sản Văn hóa Tư liệu ?"],
+        "Answer":"Tính đến tháng 5/2023, Việt Nam có 9 Di sản Văn hóa Tư liệu.",
+        "Type":"HOW"
+    },
+    {
+        "Question":["Việt Nam có bao nhiêu Khu Dự trữ Sinh quyển Thế giới ? "],
+        "Answer":"Tính đến tháng 5/2023, Việt Nam có 11 Khu Dự trữ Sinh quyển Thế giới.", 
+        "Type":"HOW"
+    },
+    {
+        "Question":["Việt Nam có bao nhiêu Công viên Địa chất Toàn cầu UNESCO ?"],
+        "Answer":"Tính đến tháng 5/2023, Việt Nam có 3 Công viên Địa chất Toàn cầu UNESCO.",
+        "Type":"HOW"
+    },
+    {
+        "Question":["Việt Nam có bao nhiêu khu Ramsar ?"],
+        "Answer":"Tính đến tháng 5/2023, Việt Nam có 9 Khu Ramsar.",
+        "Type":"HOW"
+    },
+    {
+        "Question":["Những khu Ramsar Thế giới của Việt Nam là những khu nào ?", "Những khu Ramsar Thế giới của Việt Nam ?"],
+        "Answer":"Tính đến năm 2019, Việt Nam có 9 khu Ramsar của thế giới, gồm: Vườn Quốc gia Xuân Thủy - Nam Định, vùng đất ngập nước Bầu Sấu thuộc Vườn Quốc gia Cát Tiên - Đồng Nai, hồ Ba Bể - Bắc Kạn, vườn Quốc gia Tràm Chim- huyện Tam Nông, tỉnh Đồng Tháp, vườn Quốc gia Mũi Cà Mau - huyện Ngọc Hiển, Cà Mau, vườn Quốc gia Côn Đảo, khu Bảo tồn đất ngập nước Láng Sen- tỉnh Long An, vườn Quốc gia U Minh Thượng- Kiên Giang, khu Bảo tồn Thiên nhiên đất ngập nước Vân Long - Ninh Bình.",
+        "Type":"WHAT"
+    },
+    {
+        "Question":["Những khu Dự trữ Sinh quyển Thế giới ở Việt Nam ?"],
+        "Answer":"Tại Việt Nam hiện có 11 Khu Dự trữ Sinh quyển được UNESCO ghi danh là Khu Dự trữ Sinh quyển Thế giới, cụ thể là: khu Dự trữ Sinh quyển Rừng ngập mặn Cần Giờ(TP.HCM- công nhận năm 2000), khu Dự trữ Sinh quyển Đồng Nai(Đồng Nai- công nhận năm 2011), khu Dự trữ Sinh quyển Cát Bà(TP.Hải Phòng- công nhận năm 2004), khu Dự trữ Sinh quyển Châu thổ sông Hồng(Thái Bình, Nam Định, Ninh Bình-công nhận năm 2004), khu Dự trữ Sinh quyển ven biển và biển đảo Kiên Giang(2006), khu Dự trữ Sinh quyển miền tây Nghệ An(2007), khu Dự trữ Sinh quyển Mũi Cà Mau(2009), khu Dự trữ Sinh quyển Cù Lao Chàm(2009), khu Dự trữ Sinh quyển Langbian(2015), khu Dự trữ Sinh quyền Núi Chúa(2021), khu Dự trữ Sinh quyển Cao nguyên Kon Hà Nừng(2021).",
+        "Type":"WHAT"
+    },
+    {
+        "Question":["Những công viên Địa chất Toàn cầu UNESCO ở Việt Nam ?"],
+        "Answer":"Việt Nam có 3 công viên Địa chất Toàn cầu UNESCO gồm: công viên Địa chất Toàn cầu Cao nguyên đá Đồng Văn-Hà Giang(10/2010), công viên Địa chất Toàn cầu Non nước Cao Bằng(4/2018), công viên Địa chất Toàn cầu Đắk Nông(7/2020).",
+        "Type":"WHAT"
+    },
+    {
+        "Question":["Những Di sản Văn hóa Tư liệu được UNESCO vinh danh của Việt Nam ?"],
+        "Answer":"Việt Nam có 9 Di sản Tư liệu được UNESCO vinh danh (bao gồm 3 Di sản Tư liệu Thế giới và 6 Di sản Tư liệu khu vực châu Á-Thái Bình Dương). Ba Di sản Tư liệu Thế giới gồm: Mộc bản triều Nguyễn (Trung tâm Lưu trữ Quốc gia IV, Đà Lạt-Lâm Đồng), Bia Tiến sĩ tại Văn Miếu-Quốc Tử Giám (Hà Nội), Châu bản triều Nguyễn (Trung tâm Lưu trữ quốc gia I-số 18 Vũ Phạm Hàm, phường Yên Hòa, quận Cầu Giấy, Hà Nội). Và 6 Di sản Tư liệu khu vực châu Á-Thái Bình Dương, bao gồm: Mộc bản chùa Vĩnh Nghiêm, Thơ văn trên kiến trúc cung đình Huế, Mộc bản trường học Phúc Giang, Hoàng hoa sứ trình đồ (Hành trình đi sứ Trung Hoa), Bia Ma nhai tại danh thắng Ngũ Hành Sơn-Đà Nẵng, Văn bản Hán Nôm làng Trường Lưu-Hà Tĩnh (1689-1943).",
+        "Type":"WHAT"
+    },
+    {
+        "Question":["Những Di sản Thế giới của Việt Nam ?"],
+        "Answer":"Việt Nam có 8 Di sản Thế giới được UNESCO công nhận gồm 5 Di sản Văn hoá, 2 Di sản Thiên nhiên và 1 Di sản Hỗn hợp. 5 Di sản Văn hoá gồm: Quần thể di tích Cố đô Huế (UNESCO công nhận năm 1993), Phố cổ Hội An (UNESCO công nhận năm 1999), Thánh địa Mỹ Sơn (UNESCO công nhận năm 1999), Khu Di tích Trung tâm Hoàng thành Thăng Long (UNESCO công nhận năm 2010), Thành nhà Hồ (UNESCO công nhận năm 2011). 2 Di sản Thiên nhiên gồm: Vườn Quốc gia Phong Nha-Kẻ Bàng (UNESCO công nhận năm 2003 và tái công nhận 2015), Vịnh Hạ Long (UNESCO công nhận năm 1994, tái công nhận 2000 và 2011). 1 Di sản Hỗn hợp: Quần thể Danh thắng Tràng An (UNESCO công nhận năm 2014).",
+        "Type":"WHAT"
+    },
+    {
+        "Question":["Những Di sản Văn hóa Phi vật thể của Việt Nam ?"],
+        "Answer":"Tính đến tháng 5/2023, Việt Nam có 15 Di sản Văn hóa Phi vật thể được UNESCO tôn vinh, gồm: Nghệ thuật Bài chòi Trung bộ, Nhã nhạc Cung đình Huế, Không gian Văn hóa Cồng chiêng Tây Nguyên, Dân ca Quan họ Bắc Ninh, Ca Trù, Hội Gióng ở đền Sóc và đền Phù Đổng, Tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ, Nghệ thuật Đờn ca Tài tử Nam bộ, Hát Ví-Giặm Nghệ Tĩnh, Nghi lễ và trò chơi kéo co, Thực hành tín ngưỡng thờ Mẫu tam phủ, Hát Xoan ở Phú Thọ, Thực hành Then Tày-Nùng-Thái, Nghệ thuật Xòe Thái, Nghề làm Gốm của người Chăm.",
+        "Type":"WHAT"
+    },
+    {
+        "Question":["Khu Bảo tồn Thiên nhiên đất ngập nước Vân Long - Ninh Bình được UNESCO công nhận vào thời điểm nào ?"],
+        "Answer":"Sáng ngày 22/5/2019, tại Ninh Bình, nằm trong Lễ kỷ niệm Ngày quốc tế đa dạng sinh học năm 2019, Bộ Tài nguyên và Môi trường đã trao bằng công nhận khu Ramsar thứ 2.360 của thế giới và khu Ramsar thứ 9 của Việt Nam cho Khu Bảo tồn thiên nhiên Đất ngập nước Vân Long, tỉnh Ninh Bình.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Khu Dự trữ Sinh quyền Núi Chúa được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Quần thể Núi Chúa được UNESCO công nhận là khu dự trữ sinh quyển thế giới vào tháng 9-2021, có tổng diện tích 106.646,45ha, hội tụ đầy đủ 3 không gian: rừng, biển, bán sa mạc, là mẫu chuẩn duy nhất về hệ sinh thái rừng khô hạn đặc trưng và độc đáo của Việt Nam và Đông Nam Á. ",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Công viên Địa chất Đắk Nông được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Công viên Địa chất Đắk Nông được thành lập năm 2015, có 65 điểm di sản địa chất, địa mạo, gồm hệ thống gần 50 hang động với tổng chiều dài hơn 10.000 m, các thác nước, miệng núi lửa… được UNESCO công nhận là Công viên Địa chất Toàn cầu vào tháng 7/2020.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Bia Ma nhai tại danh thắng Ngũ Hành Sơn, Đà Nẵng được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Lúc 10 giờ 30 phút ngày 26.11.2022 giờ Việt Nam, tại Hội nghị toàn thể lần thứ 9 của Ủy ban Chương trình Ký ức thế giới khu vực châu Á - Thái Bình Dương (gọi tắt là MOWCAP) diễn ra từ ngày 23 – 26.11 tại Andong (tỉnh Gyeongsang Bắc, Hàn Quốc), Ma nhai tại danh thắng Ngũ Hành Sơn, TP.Đà Nẵng, Việt Nam chính thức được công nhận là Di sản tư liệu thuộc chương trình Ký ức thế giới khu vực châu Á - Thái Bình Dương.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Văn bản Hán Nôm làng Trường Lưu, Hà Tĩnh (1689-1943) được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Ngày 26/11/2022, vào 12h30 (10h30 giờ Việt Nam) tại kỳ họp thứ 9 diễn ra ở TP Andong (Hàn Quốc), UNESCO (MOWCAP) đã thông qua và ghi danh Văn bản Hán Nôm làng Trường Lưu, Hà Tĩnh (1689-1943) là Di sản tư liệu khu vực châu Á - Thái Bình Dương.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Vườn Quốc gia Tràm Chim- huyện Tam Nông, tỉnh Đồng Tháp được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Ngày 22/5/2012, tỉnh Đồng Tháp long trọng tổ chức Lễ trao Bằng chứng nhận Vườn Quốc gia Tràm Chim là khu Ramsar (khu đất ngập nước có tầm quan trọng quốc tế) thứ 4 của Việt Nam và là khu Ramsar thứ 2000 của thế giới.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Quần thể di tích Cố đô Huế được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":" Ngày 11/12/1993, Quần thể Di tích Cố đô Huế chính thức được ghi vào danh mục Di sản thế giới của UNESCO, đây là di sản thứ 410 trong danh mục di sản thế giới và là di sản thế giới đầu tiên của Việt Nam được vinh danh.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Phố cổ Hội An được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Phố cổ Hội An được UNESCO công nhận là Di sản văn hóa Thế giới vào ngày 4 tháng 12 năm 1999.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Thánh địa Mỹ Sơn được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Khu di tích Mỹ Sơn đã được Ủy ban Di sản Thế giới của UNESCO chính thức công nhận là Di sản văn hoá Thế giới vào ngày 1/12/1999.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Khu Di tích Trung tâm Hoàng thành Thăng Long được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Ủy ban di sản thế giới thông qua nghị quyết công nhận khu Trung tâm hoàng thành Thăng Long - Hà Nội là di sản văn hóa thế giới trong kỳ họp thứ 34 tại Brasilia (Brasil) vào lúc 20g30 ngày 31-7-2010 theo giờ địa phương, tức 6g30 ngày 1-8-2010 theo giờ Việt Nam.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Khu Dự trữ Sinh quyển Cù Lao Chàm được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Ngày 29 tháng 5 năm 2009, với hệ động thực vật phong phú và những di tích lịch sử hàng trăm năm trước, Cù Lao Chàm được UNESCO công nhận là Khu dự trữ sinh quyển thế giới trong phiên họp thứ 21 của Ủy ban Điều phối quốc tế chương trình con người và sinh quyển diễn ra tại đảo Jeju (Hàn Quốc).",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Khu Dự trữ Sinh quyển Langbian được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Vào lúc khoảng 21h (giờ Việt nam) ngày 9/6/2015, tại Kỳ họp lần thứ 27 Hội đồng Điều phối Quốc tế Chương trình Con người và Sinh quyển của UNESCO (ICC MAB), Khu Dự trữ Sinh quyển Lang Biang đã được UNESCO công nhận là Khu Dự trữ Sinh quyển Thế giới.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Khu Dự trữ Sinh quyển Châu thổ sông Hồng được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Khu dự trữ sinh quyển (DTSQ) châu thổ sông Hồng gồm 2 khu vực: phía Bắc là vùng ven biển cửa sông Hồng (thường gọi là cửa Ba Lạt); phía Nam là vùng ven biển cửa sông Đáy (thường gọi là cửa Đáy), được UNESCO công nhận là Khu DTSQ thế giới vào ngày 2/12/2004.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Vịnh Hạ Long được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Ngày 17/12/1994, lần đầu tiên Vịnh Hạ Long được công nhận là Di sản thiên nhiên thế giới. Ngày 2/12/2000, một lần nữa UNESCO công nhận và gọi tên Vịnh Hạ Long là Di sản thiên nhiên thế giới bởi giá trị địa chất nổi bật. Vịnh Hạ Long hai lần được UNESCO tôn vinh là Di sản thiên nhiên thế giới đã xác nhận những giá trị ngoại hạng mang tính toàn cầu của Vịnh Hạ Long.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Vườn Quốc gia Phong Nha-Kẻ Bàng được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Tại kỳ họp toàn thể lần thứ 27 từ 30 tháng 6 đến 5 tháng 7 năm 2003, đại diện 160 quốc gia thuộc Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc (UNESCO) đã công nhận Vườn Quốc gia Phong Nha-Kẻ Bàng, cùng với 30 địa danh khác trên toàn thế giới, là di sản thiên nhiên thế giới.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Thành nhà Hồ được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Ngày 27 tháng 6 năm 2011, tổ chức UNESCO đã chính thức công nhận thành nhà Hồ là di sản văn hoá thế giới sau khi thông qua hai tiêu chí: Thể hiện được sự ảnh hưởng và các giá trị nhân văn qua một thời kỳ lịch sử của quốc gia hay khu vực trên thế giới.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Vườn quốc gia Côn Đảo được tổ chức UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Vườn quốc gia Côn Đảo được tổ chức UNESCO công nhận là vùng đất ngập nước có tầm quan trọng quốc tế (gọi là khu Ramsar) vào năm 2014.",
+        "Type":"WHEN"
+    },
+    {
+        "Question":["Vườn Quốc gia Mũi Cà Mau - huyện Ngọc Hiển, Cà Mau được UNESCO công nhận vào thời gian nào ?"],
+        "Answer":"Ngày 13/4/2013, Ban Thư ký Công ước Ramsar thế giới công nhận Vườn Quốc gia Mũi Cà Mau trở thành khu Ramsar thứ 2.088 của thế giới.",
+        "Type":"WHEN"
     }
   ]
 }
