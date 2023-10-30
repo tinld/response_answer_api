@@ -48,8 +48,9 @@ async def label_location(item: text):
     
     question_input = []
     question_input.append(item.Text)
+    print(item.Text)
     new_question_sequences = tokenizer.texts_to_sequences(question_input)
-    padded_new_question_sequences = pad_sequences(new_question_sequences, maxlen=9, padding='post')
+    padded_new_question_sequences = pad_sequences(new_question_sequences, maxlen=19, padding='post')
     predict_x = loaded_model.predict(padded_new_question_sequences)
     predicted_answer_indices = np.argmax(predict_x, axis=1)
 
