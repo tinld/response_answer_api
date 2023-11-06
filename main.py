@@ -53,7 +53,7 @@ class text(BaseModel):
 async def label_location(item: text):
     question_input = []
     question_input.append(item.Text)
-    cleaned_sentence = re.sub(r' của| là gì| \?| có những| nào| có bao nhiêu', '', question_input[0])
+    cleaned_sentence = re.sub(r' của| là gì| \?| có những| nào| có bao nhiêu| nằm', '', question_input[0])
     print(cleaned_sentence)
     new_question_sequences = tokenizer.texts_to_sequences([cleaned_sentence])
     padded_new_question_sequences = pad_sequences(new_question_sequences, maxlen=max_sequence_length, padding='post')
